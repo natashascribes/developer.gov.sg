@@ -4,13 +4,10 @@ layout: layout-page-sidenav
 ---
 ## Cloud File Transfer
 
-###Powering secure, efficient, robust file transfers
+### Powering secure, efficient, robust file transfers
 
-Cloud File Transfer (CFT) is a centralized, fully managed, API-driven service that allows agencies or businesses to **transfer files easily, securely and efficiently at scale**, whether you are transferring files across internet and intranet zones or within the same internet or intranet zones. This product is currently in private beta version.
+Cloud File Transfer (CFT) is a centralized, fully managed, API-driven service that allows agencies or businesses to **transfer files easily, securely and efficiently at scale**, whether you are transferring files across internet and intranet zones or within the same internet or intranet zones. CFT is a Singapore Government Tech Stack (SGTS) Product and currently in private beta version.
 
-### A Singapore Government Tech Stack (SGTS) Product
-
-CFT is one of the **Communications** components within [the Base Layer of the SGTS](/singapore-government-tech-stack/overview).
 
 ### APEX vs CFT
 
@@ -18,18 +15,9 @@ Today, the [IM8](/guidelines/standards-and-best-practices/im8) policy requires a
 
 To transfer large files such as PDFs, images or textual files, an agency would need to set up additional servers to act as file repositories in addition to the cross zones bridging capability. Implementing and maintaining such an infrastructure and constantly ensuring its compliance with IM8 policies/audits requires the agency to fork out additional time, money and manpower.
 
-### Why choose CFT?
-
-- Compliant to AIAS Standards
-- Light-weight API-driven service
-- Files scanned for vulnerabilities during transfer
-- Large volumes of data - up to 1GB and multiple files per transfer
-- Automated file transfer workflows with user-defined templates
-- Scale on demand
-- No installation required
 
 
-### CFT Workflow
+### How CFT Works
 
 The following illustration shows how files are transfered in CFT:
 
@@ -61,9 +49,13 @@ Eliminates the need to manage your own infrastructure or worry about over or und
 
 Compliance is hard. Staying compliant is harder. CFT complies to IM8's AIAS policy and will ensure compliance with future policy updates.
 
-##### Secure File Transfers
+##### Customized file transfers
 
-Enhance the level of security with user-defined file transfer policies and customizable workflows.
+Policy templates allow you to define policies and customize your file transfers
+
+##### Data integrity
+Consistent and accessible data in real-time across multiple touchpoints. Secure file transfer mechanisms make sure that your files arrive intact from source to destination.
+
 
 ### Key Features
 
@@ -79,19 +71,16 @@ CFT safeguards recipients from malicious file upload attacks by scanning files a
 
 CFT transfers up to 1GB in a single file. Larger files can be split into smaller chunks to be processed as a single transaction.
 
-##### Lightweight API-driven service
-Use CFT APIs to integrate file transfers into your applications.
+##### Streamline file transfer workflows
 
-##### Streamlined file transfer workflows
-Eliminate manual processes with automated file transfers.
-
-##### Data integrity
-Consistent and accessible data in real-time across multiple touchpoints.
+CFT workflows are highly configurable.
 
 ##### Self-service admin portal
+
 Centralized management and governance of projects.
 
 ##### High Availability
+
 Minimize downtime.
 
 ### Get Started
