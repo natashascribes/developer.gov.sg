@@ -8,6 +8,8 @@ frontend:
   phases:
     preBuild:
       commands:
+        - echo "$AWS_COMMIT_ID"
+        - echo "$AWS_JOB_ID"
         - bundle update --bundler
         - bundle install
         - npm i -g npm
