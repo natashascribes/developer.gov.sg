@@ -31,7 +31,6 @@ bundle exec jekyll serve
 # Webpack/static files
 npm install
 ```
-
 #### Run locally - frontend only
 
 Recommended: run webpack and jekyll in separate terminal sessions, the access the site through localhost:4000. This is to allow for easy termination of both processes.

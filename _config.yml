@@ -5,7 +5,9 @@ timezone: Asia/Singapore
 title: Singapore Government Developer Portal
 description: >
   The Singapore Government Developer Portal is a one-stop resource hub for Government digital services and products.
-url: "https://www.developer.tech.gov.sg" # Need to disable this to have jekyll-redirect-from not obey site.url
+
+# url: "https://www.developer.tech.gov.sg" # Need to disable this to have jekyll-redirect-from not obey site.url
+
 logo: /assets/img/logo_developer.gov.sg.png
 search_placeholder: Search
 
