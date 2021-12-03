@@ -2,7 +2,7 @@
 title: Whole-of-Government Application Analytics (WOGAA) - Improve Government Services with Data
 layout: layout-page-sidenav
 _data: products
-single_level: true
+single_level_nav: true
 ---
 
 ### Contact Information
@@ -22,7 +22,7 @@ For enquiries on WOGAA, email <info@tech.gov.sg>.
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
 </div>
 
 - William Afendy, Technical Lead
