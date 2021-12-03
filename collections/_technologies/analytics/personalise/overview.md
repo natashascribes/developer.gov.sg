@@ -1,9 +1,9 @@
 ---
 title: Personalise – Curating Tailored Citizen Experiences
 layout: layout-page-sidenav
-category: Analytics
 redirect_from: /technologies/analytics/personalise/
 _data: products
+single_level: false
 sub_collection_render: true
 description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.
 ---
