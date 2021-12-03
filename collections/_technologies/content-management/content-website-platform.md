@@ -2,7 +2,6 @@
 title: Content Website Platform
 layout: layout-page-sidenav
 category: Content management
-sub_collection_render: true
 description: Content Website Platform provides a suite of standardised software for hosting content-based websites.
 ---
 

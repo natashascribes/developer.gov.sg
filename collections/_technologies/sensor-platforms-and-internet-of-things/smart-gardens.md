@@ -2,7 +2,6 @@
 title: Smart Gardens – Deploying Digital Technologies for Better Park Management
 layout: layout-page-sidenav
 category: Sensors and IOT
-sub_collection_render: true
 description: Smart Gardens at Gardens by the Bay deploys digital technologies to better manage park operations, improve visitor safety and enhance park experience.
 bios:
   - name: Tan Chin Hiong, System Architect
@@ -19,7 +18,7 @@ bios:
     img_src: smart-gardens-sufie-luo.png
     desc: |
       Sufie is a software engineer. Sufie worked at Envision Digital and she graduated from the Southeast University of China with a Masters Degree in Computer Science and Technology. Sufie specialises in distributed middleware and software development. She enjoys turning technology into products that make life better.
-
+      
   - name: Soong Yi Ning, Frontend Developer
     img_src: smart-gardens-soong-yi-ning.png
     desc: |
@@ -34,11 +33,11 @@ Smart Gardens at Gardens by the Bay was launched in November 2020. It is an inte
 
 Smart Gardens aims to streamline processes, enable smart deployment of manpower through data insights, and improve service quality by leveraging artificial intelligence (AI) and machine learning (ML).
 
-To achieve these goals, Smart Gardens will deploy digital technologies in the areas of plant monitoring and irrigation, lake management, integrated security, lighting, and facilities management. In the aspect of irrigation, sensors will provide analytics on soil moisture and lake health and optimise plant maintenance by integrating with the existing irrigation system. Next, in the areas of lighting, smart lampposts will be implemented to address preventative maintenance and energy savings. Next, autonomous drones will also be employed to inspect the irrigation pipes of the 18 Supertrees. The drone is expected to cut the current three-person job down to a single person. The drones can also be applied to other inaccessible areas such as the 3,800 sqm plant-clad mountain in the Cloud Forest. Finally, other technologies include automated people counting sensors at the entrances for crowd management, smart waste bins to reduce the size of the cleaning crew and a centralised command and control centre to aid in security.
+To achieve these goals, Smart Gardens will deploy digital technologies in the areas of plant monitoring and irrigation, lake management, integrated security, lighting, and facilities management. In the aspect of irrigation, sensors will provide analytics on soil moisture and lake health and optimise plant maintenance by integrating with the existing irrigation system. Next, in the areas of lighting, smart lampposts will be implemented to address preventative maintenance and energy savings. Next, autonomous drones will also be employed to inspect the irrigation pipes of the 18 Supertrees. The drone is expected to cut the current three-person job down to a single person. The drones can also be applied to other inaccessible areas such as the 3,800 sqm plant-clad mountain in the Cloud Forest. Finally, other technologies include automated people counting sensors at the entrances for crowd management, smart waste bins to reduce the size of the cleaning crew and a centralised command and control centre to aid in security. 
 
 ### Why Should Smart Gardens be Adopted?
 
-While Smart Gardens will eventually enhance the experience for visitors, it is developed primarily to assist employees at Gardens by the Bay with the operations. There is also an expected cost savings of \$2.3 million a year when the first phase of the Smart Garden vision is implemented in 2022. In terms of productivity, the company will save about 14,700 man-days. Finally, it reduces its reliance on foreign labour through automation, enables smarter deployment of a skilled local workforce using data, and improves service quality through AI and ML.
+While Smart Gardens will eventually enhance the experience for visitors, it is developed primarily to assist employees at Gardens by the Bay with the operations. There is also an expected cost savings of $2.3 million a year when the first phase of the Smart Garden vision is implemented in 2022. In terms of productivity, the company will save about 14,700 man-days. Finally, it reduces its reliance on foreign labour through automation, enables smarter deployment of a skilled local workforce using data, and improves service quality through AI and ML.
 
 ### What's Next?
 

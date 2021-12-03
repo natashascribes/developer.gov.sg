@@ -1,8 +1,7 @@
 ---
-title: "DECADA Embedded - Microcontroller-Class Devices that Communicates with DECADA Cloud"
+title: 'DECADA Embedded - Microcontroller-Class Devices that Communicates with DECADA Cloud'
 layout: layout-page-sidenav
 category: Sensors and IOT
-sub_collection_render: true
 description: DECADA Embedded (formerly known as MANUCA) are a family of microcontroller-class devices that can communicate directly to DECADA Cloud.
 bios:
   - name: Christopher Tong, Product Manager
@@ -43,7 +42,7 @@ bios:
   - name: Fu Guangwei, Embedded Engineer
     img_src: decada-embedded-fu-guangwei.png
     desc: |
-      Guangwei is an Embedded Engineer at Govtech and mainly involved in the development of IoT devices. He has ten years of development experience in robotic field and successfully developed telepresence robot, AGV, intelligent scooter, UAV system, etc. He is also familiar with hardware and software development. Guangwei received his Master of Science in Computer Control & Automation from NTU in 2011. He consistently pursues innovation and new challenges to stretch his abilities.
+      Guangwei is an Embedded Engineer at Govtech and mainly involved in the development of IoT devices. He has ten years of development experience in robotic field and successfully developed telepresence robot, AGV, intelligent scooter, UAV system, etc. He is also familiar with hardware and software development. Guangwei received his Master of Science in Computer Control & Automation from NTU in 2011. He consistently pursues innovation and new challenges to stretch his abilities. 
 
   - name: Goh Kok Boon, Associate Software Engineer
     img_src: decada-embedded-goh-kok-boon.png
@@ -58,7 +57,7 @@ bios:
   - name: Jamie Cheng, Associate Embedded Engineer
     img_src: decada-embedded-jamie-cheng.png
     desc: |
-      Jamie is part of the DECADA embedded team as an embedded engineer and is working on the development and implementation of nationwide projects. She joined GovTech to contribute to the Smart Nation initiative. Jamie was previously a process engineer, but took up a mid-career switch program with Digipen to pursue her interest in embedded systems.
+      Jamie is part of the DECADA embedded team as an embedded engineer and is working on the development and implementation of nationwide projects. She joined GovTech to contribute to the Smart Nation initiative. Jamie was previously a process engineer, but took up a mid-career switch program with Digipen to pursue her interest in embedded systems. 
 
   - name: Yeo Hong Wei, Associate Embedded Engineer
     img_src: decada-embedded-yeo-hong-wei.png
@@ -75,7 +74,7 @@ bios:
 
 DECADA Embedded (formerly known as MANUCA) are a family of microcontroller-class devices that can communicate directly to DECADA Cloud.
 
-Microcontroller-class devices are prevalent in an IoT network, as they are low in cost and extremely energy efficient at scale. Depending on the hardware specifications, they can play the role of a node and/or a simple gateway. These resource-constrained devices run off kilobytes to megabytes of flash memory and RAM, which requires a different approach to software development.
+Microcontroller-class devices are prevalent in an IoT network, as they are low in cost and extremely energy efficient at scale. Depending on the hardware specifications, they can play the role of a node and/or a simple gateway. These resource-constrained devices run off kilobytes to megabytes of flash memory and RAM, which requires a different approach to software development. 
 
 ### What is DECADA Embedded?
 
@@ -84,13 +83,12 @@ As part of the Singapore Government Tech Stack, DECADA Embedded provides softwar
 ### Why Should DECADA Embedded be Adopted?
 
 Organisations who wish to connect their microcontroller-class devices to GovTech’s IoT Cloud (DECADA Cloud) will be able to cut software development time significantly when they reference our open-sourced examples. We provide the following RTOS reference examples, which can be compiled and run straight out-of-the-box:
-
 - MbedOS: https://github.com/GovTechSIOT/decada-embedded-example-mbedos
 - Zephyr: https://github.com/GovTechSIOT/decada-embedded-example-zephyr
 
 ### How Do You Use DECADA Embedded?
 
-Refer to README.md of the respective decada-embedded-example-\* repository.
+Refer to README.md of the respective decada-embedded-example-* repository.
 
 ### Success Stories
 
@@ -125,9 +123,9 @@ SafeEntry Gateway prototypes were based off decada-embedded-example-mbedos, whic
 </figure>
 
 **TraceTogether Upload Station**<br>
-A Decada-embedded device that uploads contact tracing data from the trace together tokens for covid positive patients. Featuring remote firmware update capability, this device enables nurses to spend less time uploading contact tracing data and focus on what they do best - caring for patients.
+A Decada-embedded device that uploads contact tracing data from the trace together tokens for covid positive patients.  Featuring remote firmware update capability, this device enables nurses to spend less time uploading contact tracing data and focus on what they do best - caring for patients.
 
-[Sport Singapore](https://www.sportsingapore.gov.sg/){:target="\_blank"} and [National Parks Board (NParks)](https://www.nparks.gov.sg/){:target="\_blank"} used IoT devices based on decada-embedded-example-mbedos software for their smart lighting works.
+[Sport Singapore](https://www.sportsingapore.gov.sg/){:target="_blank"} and [National Parks Board (NParks)](https://www.nparks.gov.sg/){:target="_blank"} used IoT devices based on decada-embedded-example-mbedos software for their smart lighting works.
 
 <figure style="text-align: center">
   <img

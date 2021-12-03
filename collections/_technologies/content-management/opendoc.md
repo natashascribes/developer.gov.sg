@@ -2,7 +2,6 @@
 title: OpenDoc
 layout: layout-page-sidenav
 category: Documentation
-sub_collection_render: true
 description: >
   OpenDoc is an online document viewer.
   It provides templates for websites, hosting and is compliant 

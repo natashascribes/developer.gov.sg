@@ -1,9 +1,8 @@
 ---
-title: "DECADA Cloud – The Singapore Government’s Secure IoT platform"
+title: 'DECADA Cloud – The Singapore Government’s Secure IoT platform'
 layout: layout-page-sidenav
 category: Sensors and IOT
-sub_collection_render: true
-description: DECADA Cloud is the Singapore Government’s secure IoT platform for device management and sensor data analysis.
+description: DECADA Cloud is the Singapore Government’s secure IoT platform for device management and sensor data analysis. 
 bios:
   - name: Toh Kian Hui, Technical Lead
     img_src: iot-toh-kian-hui.png
@@ -30,14 +29,13 @@ bios:
 
 ### Overview
 
-An IoT deployment requires a means for devices to be managed, and for sensor data to be stored and analysed. DECADA Cloud is the Singapore Government’s secure IoT platform that provides these features and more, allowing us to rapidly build and operate IoT systems on it.
+An IoT deployment requires a means for devices to be managed, and for sensor data to be stored and analysed. DECADA Cloud is the Singapore Government’s secure IoT platform that provides these features and more, allowing us to rapidly build and operate IoT systems on it. 
 
 ### What is DECADA Cloud?
 
 DECADA Cloud is a centralized, multi-tenant cloud platform for the Singapore Government’s IoT systems. It serves as the digital infrastructure of the IoT stack, providing data aggregation and device management services. It also provides user-facing services, such as dashboarding and report generation to automate IoT operations.
 
 DECADA’s core features include:
-
 - Device Enrollment & Asset Management
 - Data Acquisition through multiple protocols
 - Event Triggers & Alerts
@@ -54,15 +52,15 @@ Because DECADA comprises modular reusable components, standard applications can 
 
 ### How Do You Use DECADA Cloud?
 
-You can use DECADA Cloud in conjunction with DECADA Embedded or Edge, or on its own with a cloud-to-cloud connection.
+You can use DECADA Cloud in conjunction with DECADA Embedded or Edge, or on its own with a cloud-to-cloud connection. 
 
 ### Success Stories
 
-DECADA Cloud is used in nearly all of SIOT’s deployments. Some notable use-cases deployed today that exploit the full functionality of DECADA Cloud are the SmartGym and the SafeEntry Gateway projects.
+DECADA Cloud is used in nearly all of SIOT’s deployments. Some notable use-cases deployed today that exploit the full functionality of DECADA Cloud are the SmartGym and the SafeEntry Gateway projects.  
 
-[SmartGym](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/smartgym){:target="\_blank"} uses DECADA Cloud to collect and store user data from sensors located in SportSG gyms. OTA updates are also pushed to deployed Edge devices through the Cloud.
+[SmartGym](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/smartgym){:target="_blank"} uses DECADA Cloud to collect and store user data from sensors located in SportSG gyms. OTA updates are also pushed to deployed Edge devices through the Cloud.
 
-The [SafeEntry Gateway](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/safeentry.html){:target="\_blank"} pushes token data to DECADA Cloud, and relies on integrations within DECADA Cloud with other GovTech services to ensure that up-to-date information is always available to enable smooth contact tracing efforts.
+The [SafeEntry Gateway](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/safeentry.html){:target="_blank"} pushes token data to DECADA Cloud, and relies on integrations within DECADA Cloud with other GovTech services to ensure that up-to-date information is always available to enable smooth contact tracing efforts.
 
 ### Contact Information
 
@@ -83,3 +81,6 @@ If you are interested to learn more and get started with DECADA, please email <t
   </div>
   {% endfor %}  
 </div>
+
+
+

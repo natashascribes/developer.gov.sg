@@ -2,7 +2,6 @@
 title: data.gov.sg
 layout: layout-page-sidenav
 category: Data and APIs
-sub_collection_render: true
 description: data.gov.sg is a one-stop portal to publicly-available datasets from 70 public agencies.
 ---
 

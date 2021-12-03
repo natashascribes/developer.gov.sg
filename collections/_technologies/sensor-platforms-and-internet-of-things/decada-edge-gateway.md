@@ -1,8 +1,7 @@
 ---
-title: "DECADA Edge Gateway – Facilitates Easy and Secure Onboarding of Sensor Nodes to DECADA"
+title: 'DECADA Edge Gateway – Facilitates Easy and Secure Onboarding of Sensor Nodes to DECADA'
 layout: layout-page-sidenav
 category: Sensors and IOT
-sub_collection_render: true
 description: DECADA Edge Gateway is a specially developed edge gateway that improves the performance of DECADA.
 bios:
   - name: Toh Kian Hui, Technical Lead
@@ -19,7 +18,7 @@ bios:
 
 ### Overview
 
-Edge gateways are a commonly used architectural component in Internet of Things (IoT) systems. They improve the performance of IoT systems by running functions such as analytics closer to the device and allow a variety of devices to be connected to the Cloud. DECADA Edge Gateway is a specially developed edge gateway that provides these benefits for the Government Internet of Things Tech Stack, also known as DECADA.
+Edge gateways are a commonly used architectural component in Internet of Things (IoT) systems. They improve the performance of IoT systems by running functions such as analytics closer to the device and allow a variety of devices to be connected to the Cloud. DECADA Edge Gateway is a specially developed edge gateway that provides these benefits for the Government Internet of Things Tech Stack, also known as DECADA. 
 
 ### What is DECADA Edge Gateway?
 
@@ -42,7 +41,6 @@ DECADA Edge Gateway software is written on top of open-source QT C++ framework. 
 DECADA Edge Gateway is an easy-to-use, flexible and powerful solution for connecting devices securely to DECADA Cloud, as well as running data aggregation and analytics pipelines on the edge.
 
 The full list of DECADA Edge Gateway features are as follows:
-
 - Secured connection to DECADA Cloud
 - Firmware Over-The-Air (FOTA) update capability (in development)
 - Transformation between communication protocols
@@ -71,18 +69,18 @@ An example of the combination of plugins to achieve data acquisition from variou
 
 Plugins in the following categories are currently available:
 
-| Category of Plugins | Description                                                |
-| ------------------- | ---------------------------------------------------------- |
-| I/O                 | Acquire data from sensors                                  |
-| Processing          | Transform, decorate, and/or filter metrics                 |
-| Information         | Collect information of the system                          |
-| Aggregation         | Create aggregate metrics (e.g., mean, min, max, quantiles) |
-| Web                 | Provide web interfaces for configuration or visualisation  |
-| Analytics           | Perform video and data analytics                           |
+|Category of Plugins|Description|
+|---|---|
+|I/O|Acquire data from sensors|
+|Processing|Transform, decorate, and/or filter metrics|
+|Information|Collect information of the system|
+|Aggregation|Create aggregate metrics (e.g., mean, min, max, quantiles)|
+|Web|Provide web interfaces for configuration or visualisation|
+|Analytics|Perform video and data analytics|
 
 ### Success Stories
 
-DECADA Edge has been successfully deployed and is running in various projects including Smart Offices, [Smart Gym](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/smartgym){:target="\_blank"} and Smart Lamppost (CETRAN).
+DECADA Edge has been successfully deployed and is running in various projects including Smart Offices, [Smart Gym](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/smartgym){:target="_blank"} and Smart Lamppost (CETRAN).
 
 ### Contact Information
 

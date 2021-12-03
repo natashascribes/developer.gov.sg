@@ -2,7 +2,6 @@
 title: eCanvas – A Voice Controlled Assistive Canvas
 layout: layout-page-sidenav
 category: Sensors and IOT
-sub_collection_render: true
 description: >
   The eCanvas is a voice-controlled assistive technology that provides greater independence for persons with disabilities.
 bios:
@@ -15,17 +14,17 @@ bios:
     img_src: ecanvas-benjamen-lim.png
     desc: |
       Benjamen is an associate R&D engineer at GovTech. Benjamen graduated from Northwestern University in the United States with a master’s and bachelor’s in mechanical engineering, specialising in robotics. He is passionate about design and prototyping ideas, from embedded programming to mechanical design, and is excited to contribute to our Smart Nation by using these skills to benefit others.
-
+      
   - name: Lee Si Min, Associate R&D Engineer
     img_src: ecanvas-lee-si-min.png
     desc: |
       Si Min graduated from NTU with a degree in Computer Science. She enjoys developing assistive technology applications which enable users to live fulfilling and independent lives.
-
+      
   - name: Tan Yi Ming, Associate R&D Engineer
     img_src: ecanvas-tan-yi-ming.png
     desc: |
       Yi Ming graduated from NTU with a degree in Electrical and Electronic Engineering. He specialises in Intelligent Systems & Control Engineering. Yi Ming is passionate about developing assistive solutions that can help empower and enable users with special needs to live their lives independently.
-
+      
   - name: Esmond Ng, Associate R&D Engineer
     img_src: ecanvas-esmond-ng.png
     desc: |
@@ -55,7 +54,7 @@ The eCanvas is one of many SIOT products developed as part of the Smart Nation S
 
 ### Why Should eCanvas be Adopted?
 
-The SIOT team designed the eCanvas with inclusiveness in mind as technology can be used to empower minority groups in society that are often overlooked, such as PWDs. This empowers PWDs to contribute to society and achieve their dreams. As Singapore digitalises and progresses towards our [Smart Nation](https://www.smartnation.gov.sg/){:target="\_blank"} plans, it is pertinent for all Singaporeans of all abilities to be included through transformative technologies such as the eCanvas.
+The SIOT team designed the eCanvas with inclusiveness in mind as technology can be used to empower minority groups in society that are often overlooked, such as PWDs. This empowers PWDs to contribute to society and achieve their dreams. As Singapore digitalises and progresses towards our [Smart Nation](https://www.smartnation.gov.sg/){:target="_blank"} plans, it is pertinent for all Singaporeans of all abilities to be included through transformative technologies such as the eCanvas.
 
 The benefits of the eCanvas include:
 
@@ -87,15 +86,15 @@ Instead of voice commands, users can adopt a sensitive touch button to carry out
 
 Beyond recreational, social and therapeutic uses, the eCanvas has benefitted PWDs financially as well. PWDs who are professional painters have indicated that with the eCanvas, mouth painting is now more seamless as this has improved their income generating abilities.
 
-eCanvas has also been deployed in the [Rainbow Centre](https://www.rainbowcentre.org.sg/){:target="\_blank"}, a social service agency dedicated to helping young PWDs. The eCanvas currently helps lower-primary school students with different forms of physical limitations to carry out therapeutic activities such as arts and craft.
+eCanvas has also been deployed in the [Rainbow Centre](https://www.rainbowcentre.org.sg/){:target="_blank"}, a social service agency dedicated to helping young PWDs. The eCanvas currently helps lower-primary school students with different forms of physical limitations to carry out therapeutic activities such as arts and craft.
 
 ### What’s Next?
 
 The SIOT team plans to deploy eCanvas across various social service agencies in Singapore.
 
-Prior to the COVID-19 pandemic, numerous social service agencies have indicated their interest in adopting eCanvas and although COVID-19 has impacted the scale of events and activities, follow ups will be done with all social service agencies who have indicated their interest.
+Prior to the COVID-19 pandemic, numerous social service agencies have indicated their interest in adopting eCanvas and although COVID-19 has impacted the scale of events and activities, follow ups will be done with all social service agencies who have indicated their interest. 
 
-The eCanvas project also represents the start of GovTech’s assistive technology plans, with more products and prototypes for PWDs currently in the pipeline. This aligns with our goal of creating a more inclusive society through inclusive technologies!
+The eCanvas project also represents the start of GovTech’s assistive technology plans, with more products and prototypes for PWDs currently in the pipeline. This aligns with our goal of creating a more inclusive society through inclusive technologies!  
 
 ### Contact Information
 
@@ -119,8 +118,9 @@ For enquiries, email <info@tech.gov.sg>.
 
 eCanvas Contributors (2018-2019):
 
-- Quek Yang Boon, Director
-- Tony Varghese, Product Manager
-- Liew Hua Peng, Lead System Engineer
-- Sivaguru Sivagnanam, Associate Systems Engineer (Oct 2019 – Jun 2020); Intern (Jan – Aug 2019)
-- Kaitlyn Ng, Intern, NUS, Bachelor’s in Computer Science
+-	Quek Yang Boon, Director 
+-	Tony Varghese, Product Manager 
+-	Liew Hua Peng, Lead System Engineer 
+-	Sivaguru Sivagnanam, Associate Systems Engineer (Oct 2019 – Jun 2020); Intern (Jan – Aug 2019)
+-	Kaitlyn Ng, Intern, NUS, Bachelor’s in Computer Science
+ 

@@ -3,8 +3,7 @@ title: Whole-of-Government Application Analytics (WOGAA) - Improve Government Se
 layout: layout-page-sidenav
 redirect_from: /technologies/analytics/wogaa/
 _data: products
-single_level: false
-sub_collection_render: true
+single_level: true
 description: >
   WOGAA is an analytics & performance platform for public officers to monitor the health of their government websites and optimise the performance of
   their digital services with data.
@@ -199,7 +198,7 @@ For enquiries on WOGAA, email <info@tech.gov.sg>.
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
 </div>
 
 - William Afendy, Technical Lead

@@ -2,7 +2,6 @@
 title: LifeSG - Simpler Services, Better Lives
 layout: layout-page-sidenav
 category: Platform
-sub_collection_render: true
 description: LifeSG, an app that offers users simpler access to digital government service through the consolidation of personalised content.
 ---
 
@@ -16,7 +15,7 @@ LifeSG is a one-stop resource hub for over 70 government services. It consolidat
 
 Moments of Life (MOL) was initially launched to serve parents with young children. In August 2020, MOL was rebranded as LifeSG with a brand-new vision to serve citizens beyond key live moments. Looking into its namesake, Life signifies the desire “to offer personalised services at key life moments for citizens” and SG signifies the desire “to help citizens navigate simplified government digital services in Singapore.”
 
-The app consolidates services and information across Government agencies, and personalises recommendations according to user profiles and preferences. Users can currently explore more than 70 frequently-used services and get reminders for appointments and event bookings done through the app. One such service is the electronic birth registration service on LifeSG, It handles seven in 10 birth registration in Singapore. The service integrates birth registration, application for Government grant (Baby Bonus) and new National Library Board membership into a single process, reducing the typical time spent from an hour to 15 minutes.
+The app consolidates services and information across Government agencies, and personalises recommendations according to user profiles and preferences. Users can currently explore more than 70 frequently-used services and get reminders for appointments and event bookings done through the app. One such service is the electronic birth registration service on LifeSG, It handles seven in 10 birth registration in Singapore. The service integrates birth registration, application for Government grant (Baby Bonus) and new National Library Board membership into a single process, reducing the typical time spent  from an hour to 15 minutes.
 
 To date, the app has been downloaded more than 290,000 times and facilitated a range of services such as the birth registration; an eligibility checker for more than 30 types of COVID-19 grants and assistance; as well as access to Merdeka or Pioneer Generation e-card and information on personalised benefits.
 
@@ -47,7 +46,7 @@ The key benefits of LifeSG are as shown below.
 Users can connect with the government using following features in LifeSG.
 
 - **Personalised Dashboard:** The app home screen displays a personalised dashboard that contains recommended content and services based on the user’s profile, and a listing of events that the user may be interested in.
-- **User-Friendly Guides:** The app contains guides that integrate information across multiple government agencies, making it convenient for users to view all the information they need at various life stages or to complete certain tasks in a single location.
+- **User-Friendly Guides:** The app contains guides that integrate information across multiple government agencies, making it convenient for users to view  all the information they need at various life stages or to complete certain tasks in a single location.
 - **Personalised Benefits and Support Module:** This shows at one glance the list of benefits that a user has received or may be entitled to, such as GST Vouchers and SingapoRediscover Vouchers (SRV). Eligible seniors can also view their Merdeka Generation e-card. More than 21,000 users have accessed this module in January 2021.
 - **Personalised Eligibility Checkers and Calculators:** By simply answering a few simple questions, users can view the list of government support schemes they are eligible for and estimate the amount of benefits and support they can receive. This provides much added convenience as users no longer have to navigate and process the eligibility criteria of each individual scheme.
 - **Explore Services:** Citizens can explore and easily access 70 Government services. Information is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and not according to agencies. About 10,000 users access this feature each month.
@@ -78,4 +77,4 @@ For more details on LifeSG, including links to download the app, please visit <h
 
 ### Contact Information
 
-Questions, technical report or feedback – we’d love to hear from you. Let us know how we can improve your experience by clicking [here](https://www.life.gov.sg/get-in-touch){:target="\_blank"}.
+Questions, technical report or feedback – we’d love to hear from you. Let us know how we can improve your experience by clicking [here](https://www.life.gov.sg/get-in-touch){:target="_blank"}.

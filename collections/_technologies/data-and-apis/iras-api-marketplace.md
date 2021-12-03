@@ -2,7 +2,6 @@
 title: Inland Revenue Authority of Singapore (IRAS) API Marketplace – Explore, Discover and Create Digital Services via APIs
 layout: layout-page-sidenav
 category: Data and APIs
-sub_collection_render: true
 description: IRAS API Marketplace offers tax-related APIs, Q&As and a community platform for developers to co-create with IRAS.
 ---
 
@@ -12,10 +11,9 @@ The IRAS API Marketplace offers tax-related APIs and Q&As for developers. It als
 
 ### What is the IRAS API Marketplace?
 
-The IRAS API Marketplace is a one-stop collaborative platform that offers developers the opportunity to create seamless filing experiences for taxpayers, tax agents and tax-related service providers. By integrating with IRAS APIs through software like accounting and payroll, taxpayers can conveniently meet regulatory requirements and fulfil tax obligations easily and securely.
+The IRAS API Marketplace is a one-stop collaborative platform that offers developers the opportunity to create seamless filing experiences for taxpayers, tax agents and tax-related service providers. By integrating with IRAS APIs through software like accounting and payroll, taxpayers can conveniently meet regulatory requirements and fulfil tax obligations easily and securely. 
 
 Several key API initiatives are available at the API Marketplace, including:
-
 - Check GST Register for the status of GST-registered businesses
 - Stamp Duty Calculator
 - AIS Organisation Search
@@ -25,9 +23,9 @@ Several key API initiatives are available at the API Marketplace, including:
 - Submission of Corporate Tax Records (Form C-S and Pre-Fill)
 - Submission of Tax Clearance for Foreign Employees (Form IR21)
 
-For more information on the IRAS API Marketplace, click [here](https://apiservices.iras.gov.sg/iras/devportal/){:target="\_blank"}.
+For more information on the IRAS API Marketplace, click [here](https://apiservices.iras.gov.sg/iras/devportal/){:target="_blank"}.
 
-### Why Should the IRAS API Marketplace be Adopted?
+### Why Should the IRAS API Marketplace be Adopted? 
 
 IRAS embarked on the API journey since 2018 to build products that leverage APIs so that software developers can enrich the tax experience between taxpayers and IRAS as a regulatory authority. With IRAS APIs, taxpayers can transmit filing data from their existing software directly to IRAS servers and receive immediate feedback through the API on the validation or processing status of the submission. This significantly reduces submission errors, improves data accuracy and enriches the overall experience of fulfilling tax obligations more conveniently.
 
@@ -37,17 +35,17 @@ In general, Software Developers can integrate and consume various API Products i
 
 ### How Do You Use the IRAS API Marketplace?
 
-Software Developers can browse the catalogue of APIs offered at the API Marketplace and discover the right APIs that aligns with their business [here](https://apiservices.iras.gov.sg/iras/devportal/product){:target="\_blank"}. The platform provides self-service facilities to create your own account and subscriptions.
+Software Developers can browse the catalogue of APIs offered at the API Marketplace and discover the right APIs that aligns with their business [here](https://apiservices.iras.gov.sg/iras/devportal/product){:target="_blank"}. The platform provides self-service facilities to create your own account and subscriptions. 
 
-A Sandbox environment is also provided for Software Developers to test and validate their API integration through their software before moving to Production. For APIs that require Corppass Authentication, refer to the Corppass and Callback URL Guide [here](https://go.gov.sg/iras-corppassguide){:target="\_blank"}.
+A Sandbox environment is also provided for Software Developers to test and validate their API integration through their software before moving to Production. For APIs that require Corppass Authentication, refer to the Corppass and Callback URL Guide [here](https://go.gov.sg/iras-corppassguide){:target="_blank"}.
 
-To gain access to IRAS API Marketplace, sign up as a developer [here](https://apiservices.iras.gov.sg/iras/devportal/user/register){:target="\_blank"}.
+To gain access to IRAS API Marketplace, sign up as a developer [here](https://apiservices.iras.gov.sg/iras/devportal/user/register){:target="_blank"}. 
 
-To participate in our key API Initiatives, submit your interest [here](https://go.gov.sg/iras-api){:target="\_blank"}.
+To participate in our key API Initiatives, submit your interest [here](https://go.gov.sg/iras-api){:target="_blank"}.
 
 ### What's Next?
 
-IRAS is looking for partners to co-create new “Service Enabler” APIs such as “Filing Due Dates” and “Outstanding Balances” that would help value-add to accounting software. See the “Future Collaboration” space in the [API Roadmap 2.0](https://go.gov.sg/iras-apiroadmap){:target="\_blank"} (shown below) and get in touch.
+IRAS is looking for partners to co-create new “Service Enabler” APIs such as “Filing Due Dates” and “Outstanding Balances” that would help value-add to accounting software. See the “Future Collaboration” space in the [API Roadmap 2.0](https://go.gov.sg/iras-apiroadmap){:target="_blank"} (shown below) and get in touch.
 
 Come 2022, the E-Stamping and Donation APIs will be made available for Software Developers to integrate.
 
@@ -64,3 +62,32 @@ Come 2022, the E-Stamping and Donation APIs will be made available for Software 
 If you have questions or would like to explore collaboration opportunities with IRAS, email <digital_partnerships@iras.gov.sg>.
 
 For technical queries or support on existing APIs, email <api_support@iras.gov.sg>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,8 +2,7 @@
 title: BookingSG – A Pre-Booking Tool for Calendaring, Availability, Rostering and Booking (CARB) Management.
 layout: layout-page-sidenav
 category: Data and APIs
-sub_collection_render: true
-description: BookingSG is a Calendaring, Availability, Rostering and Booking (CARB) management tool for agencies that offer services which require pre-booking
+description: BookingSG is a Calendaring, Availability, Rostering and Booking (CARB) management tool for agencies that offer services which require pre-booking.
 ---
 
 ### Overview
@@ -16,7 +15,7 @@ There are three groups of BookingSG users: service administrators, service provi
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig1.png" width="80%" height="80%" 
+    src="/assets/img/bookingsg-fig1.png" width="80%" height="80%"
     alt="Fig 1: BookingSG’s services for service administrators, service providers and citizens (left to right)"
   />
   <figcaption>Fig 1: BookingSG’s services for service administrators, service providers and citizens (left to right)</figcaption>
@@ -24,11 +23,11 @@ There are three groups of BookingSG users: service administrators, service provi
 
 ### Why Should BookingSG be Adopted?
 
-Fig 2 illustrates the benefits\* of BookingSG for Government agencies. This includes its security, multi-agency connectivity, customisation features, plug-and-play model, lower implementation and maintenance costs, fluid integration abilities and future proof features.
+Fig 2 illustrates the benefits* of BookingSG for Government agencies. This includes its security, multi-agency connectivity, customisation features, plug-and-play model, lower implementation and maintenance costs, fluid integration abilities and future proof features.
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig2.png" width="100%" height="100%" 
+    src="/assets/img/bookingsg-fig2.png" width="100%" height="100%"
     alt="Fig 2: Benefits of BookingSG for Whole of Government (WOG)"
   />
   <figcaption>Fig 2: Benefits of BookingSG for Whole of Government (WOG)</figcaption>
@@ -47,11 +46,11 @@ The various ways to utilise BookingSG are as shown below.
 
 **As a combination**: The various service offerings of BookingSG can be used in different combinations - from using the admin portal as a SaaS, to additional business logic defined on the web/app before redirecting to BookingSG for slot selection supported by API integration. This allows the desired user experiences to be achieved.
 
-To start using BookingSG, fill out this [form](https://form.gov.sg/#!/605a9d2e7b204500129b33c7){:target="\_blank"}.
+To start using BookingSG, fill out this [form](https://form.gov.sg/#!/605a9d2e7b204500129b33c7){:target="_blank"}.
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig3.png" width="100%" height="100%" 
+    src="/assets/img/bookingsg-fig3.png" width="100%" height="100%"
     alt="Fig 3: BookingSG’s dashboard for calendar bookings"
   />
   <figcaption>Fig 3: BookingSG’s dashboard for calendar bookings</figcaption>
@@ -63,4 +62,4 @@ Currently the BookingSG team is improving the product allow it to be more holist
 
 ### Contact Information
 
-For enquiries, please fill in this [form](https://form.gov.sg/#!/605a9d2e7b204500129b33c7){:target="\_blank"}.
+For enquiries, please fill in this [form](https://form.gov.sg/#!/605a9d2e7b204500129b33c7){:target="_blank"}.

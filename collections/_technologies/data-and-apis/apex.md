@@ -3,14 +3,13 @@ title: API Exchange (APEX) - A Centralised Data Sharing Platform for the Public 
 layout: layout-page-sidenav
 category: Data and APIs
 redirect_from: /singapore-government-tech-stack/communications/apex
-sub_collection_render: true
 description: GovTech’s APEX platform enables Singapore’s public sector to share data conveniently and securely through the use of APIs. Find out here.
 ---
 
 ### Overview
 
 APEX is a self-service API platform that acts as a centralised and secure API gateway for the government. Through APEX, users can easily publish, monitor, and
-discover APIs across government agencies securely. The increasing role of data driven decision making has increased the need for a centralised and secure data
+discover APIs across government agencies securely. The increasing role of data driven decision making has increased the need for a centralised and secure data 
 sharing platform for the government through APEX.
 
 ### What is APEX?
@@ -48,16 +47,15 @@ The central logging system of APEX also provides an overview of all API call log
   <figcaption>Fig 4: APEX’s Central Administration Dashboard</figcaption>
 </figure>
 
-The central administration dashboard of APEX serves as a monitoring tool for system health checks and provides analytics.
+The central administration dashboard of APEX serves as a monitoring tool for system health checks and provides analytics.  
 
 Other key features of APEX include its self-service model, provision of professional services, ability to support multi-tenanted Environments and modern RESTful and SOAP APIs.
 
 The various open source codes under APEX can be found through these links:
-
-- [Node.js API signature library](https://github.com/GovTechSG/node-apex-api-security){:target="\_blank"}
-- [Java API signature library](https://github.com/GovTechSG/java-apex-api-security){:target="\_blank"}
-- [Node.js HTTP Proxy Server for attaching Apex authentication headers](https://github.com/GovTechSG/apex-proxy-node){:target="\_blank"}
-- [Apex API signature validator](https://github.com/GovTechSG/apex-signature-validator){:target="\_blank"}
+- [Node.js API signature library](https://github.com/GovTechSG/node-apex-api-security){:target="_blank"}
+- [Java API signature library](https://github.com/GovTechSG/java-apex-api-security){:target="_blank"}
+- [Node.js HTTP Proxy Server for attaching Apex authentication headers](https://github.com/GovTechSG/apex-proxy-node){:target="_blank"}
+- [Apex API signature validator](https://github.com/GovTechSG/apex-signature-validator){:target="_blank"}
 
 ### Why Should APEX be Adopted?
 
@@ -66,10 +64,10 @@ APEX serves over 100 million API calls in a month and supports around 2,400 API 
 - **Real-time management of data APIs and data consumption:** Government agencies can garner an overview of the popularity and usage of their shared datasets. This allows agencies to constantly improve their datasets according to popularity and demand. Less popular data sets can also be deprioritised to allow for more time and resources to be allocated to impactful datasets that will be more beneficial for inter-agency sharing and use.
 - **Safe and secure transfer of data between public-facing front-end (Internet) and back-end (Intranet) platforms:** APEX allows public information such as idea submissions, documents and other hosted materials to be securely exchanged between public-facing Internet portals and an administrative Intranet portal within a platform.
 - **Saves manpower hours:** When a government agency requires data from multiple agencies, APEX can facilitate the data sharing process more conveniently and quickly without the need to submit a request to and await approval from the data source agency. This is because APEX’s self-service model allows the requesting agency to pull data sets from various agencies directly due to pre-configured access controls set by the data source agency.
-- **Data Governance:** APEX provides a central point to manage, monitor and harden security for APIs.
+- **Data Governance:** APEX provides a central point to manage, monitor and harden security for APIs. 
 - **Data Sharing:** An easy and reusable data exchange channel using data transformation. The automated workflow reduces the effort required for both the provider and the consumer, thus encouraging the creation of innovative digital services that will be published through an API catalogue.
 - **Rapid Development for Service Delivery:** Rapid development is possible without affecting the backend. Using the API catalogue, agencies can discover and reuse existing APIs that can be integrated into their existing technology stack. This reduces an agency’s development, integration and troubleshooting timespan, thereby speeding up service delivery.
-- **Co-creation:** Applications and backend can be developed together.
+- **Co-creation:** Applications and backend can be developed together. 
 
 ### How Do You Use APEX?
 
@@ -84,7 +82,7 @@ As a provider, a project must be created first. The steps below detail the proje
 
 **Step 1 - Getting Onboarded**
 
-Potential users can request and fill in the onboarding form from the APEX team by writing to enquiries_apex@tech.gov.sg and submitting the completed form it accordingly. The APEX team will perform the necessary evaluation tasks to determine how many units (Apex Units) of subscription is required for the user’s system case. After which, a kickoff session will be arranged with the APEX onboarding team to go through the briefing list of items that agencies are required to follow up on. This includes a training session for creating APIs and APPs in APEX.
+Potential users can request and fill in the onboarding form from the APEX team by writing to  enquiries_apex@tech.gov.sg and submitting the completed form it accordingly. The APEX team will perform the necessary evaluation tasks to determine how many units (Apex Units) of subscription is required for the user’s system case. After which, a kickoff session will be arranged with the APEX onboarding team to go through the briefing list of items that agencies are required to follow up on. This includes a training session for creating APIs and APPs in APEX.
 
 **Step 2 - Opening of Firewalls**
 
@@ -112,7 +110,7 @@ As a consumer, users can follow the steps below to begin their APEX onboarding.
 
 **Step 1 - Getting Access from the Provider**
 
-Consumers can visit this [site](https://portal.apex.gov.sg/catalogue/highlights){:target="\_blank"}(only accessible through Intranet) to identify the required APIs before requesting access from the Provider. Consumers can also sign up for the training session provided by the APEX team to understand how APPs can be created in APEX.
+Consumers can visit this [site](https://portal.apex.gov.sg/catalogue/highlights){:target="_blank"}(only accessible through Intranet) to identify the required APIs before requesting access from the Provider.  Consumers can also sign up for the training session provided by the APEX team to understand how APPs can be created in APEX.
 
 **Step 2 - Opening of Firewalls**
 
@@ -126,11 +124,11 @@ Tenants may need to perform the exchange of certificates based a needs basis.
 
 Tenants can start to create APIs that would be taught in the APEX training session. If there are any exceptions in this stage, the tenant can approach the support team for assistance.
 
-For more technical information, refer to the APEX Quickstart guide [here](https://docs.developer.tech.gov.sg/docs/apex-quickstart){:target="\_blank"} and FAQs [here](https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs){:target="\_blank"}.
+For more technical information, refer to the APEX Quickstart guide [here](https://docs.developer.tech.gov.sg/docs/apex-quickstart){:target="_blank"} and FAQs [here](https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs){:target="_blank"}.
 
 ### Success Stories
 
-- MyInfo is a government service in which users only have to provide their personal data to the government once before they can tap on their government-verified data to pre-fill online forms for subsequent government and private sector digital services. Thus, making digital transactions to quicker and simpler. Currently, APEX has enabled over 220 government digital services and more than 2,400 commercial services to be linked to the MyInfo service. This helps citizens to access services more efficiently and quickly by retrieving their data from various government sources through one platform, eventually doing away with the need for physical documents as verifications to complete transactions.
+- MyInfo is a government service in which users only have to provide their personal data to the government once before they can tap on their government-verified data to pre-fill online forms for subsequent government and private sector digital services. Thus, making digital transactions to quicker and simpler. Currently, APEX has enabled over 220 government digital services and more than 2,400 commercial services to be linked to the MyInfo service. This helps citizens to access services more efficiently and quickly by retrieving their data from various government sources through one platform, eventually doing away with the need for physical documents as verifications to complete transactions. 
 - Ideas! is the government portal for crowdsourcing activities. It is where the government can reach out to and receive feedback and suggestions from the public through challenges or contests. Currently, Ideas! relies on APEX to securely exchange content such as public information, idea submissions, documents and other hosted materials, between the public-facing Internet portal and an administrative Intranet portal of the platform.
 
 ### What's Next?
@@ -139,7 +137,7 @@ A later version of APEX 2.0 running on containers is planned in Q1 FY22, which w
 
 ### Getting Started
 
-Administrative access to APEX is only available on the government intranet. Register for APEX through this [link](https://portal.apex.gov.sg/register){:target="\_blank"} or email us at <enquiries_apex@tech.gov.sg>.
+Administrative access to APEX is only available on the government intranet. Register for APEX through this [link](https://portal.apex.gov.sg/register){:target="_blank"} or email us at <enquiries_apex@tech.gov.sg>.
 
 ### Contact Information
 
@@ -147,9 +145,9 @@ You can email us at <enquiries_apex@tech.gov.sg>.
 
 <br/>**Technical Resources**
 
-- [APEX Quickstart guide](https://docs.developer.tech.gov.sg/docs/apex-quickstart){:target="\_blank"}
-- [APEX FAQs](https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs){:target="\_blank"}
-- [Node.js API signature library](https://github.com/GovTechSG/node-apex-api-security){:target="\_blank"}
-- [Java API signature library](https://github.com/GovTechSG/java-apex-api-security){:target="\_blank"}
-- [Node.js HTTP Proxy Server for attaching Apex authentication headers](https://github.com/GovTechSG/apex-proxy-node){:target="\_blank"}
-- [Apex API signature validator](https://github.com/GovTechSG/apex-signature-validator){:target="\_blank"}
+- [APEX Quickstart guide](https://docs.developer.tech.gov.sg/docs/apex-quickstart){:target="_blank"}
+- [APEX FAQs](https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs){:target="_blank"}
+- [Node.js API signature library](https://github.com/GovTechSG/node-apex-api-security){:target="_blank"}
+- [Java API signature library](https://github.com/GovTechSG/java-apex-api-security){:target="_blank"}
+- [Node.js HTTP Proxy Server for attaching Apex authentication headers](https://github.com/GovTechSG/apex-proxy-node){:target="_blank"}
+- [Apex API signature validator](https://github.com/GovTechSG/apex-signature-validator){:target="_blank"}

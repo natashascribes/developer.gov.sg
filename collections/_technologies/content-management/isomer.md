@@ -2,7 +2,6 @@
 title: Isomer
 layout: layout-page-sidenav
 category: Content management
-sub_collection_render: true
 description: >
   Isomer is an informational website generator that provides templates 
   for websites with hosting and is compliant to applicable clauses in 

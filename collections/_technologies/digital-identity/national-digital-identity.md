@@ -1,7 +1,6 @@
 ---
 title: National Digital Identity
 layout: layout-page-sidenav
-sub_collection_render: true
 description: >
   National Digital Identity
   allows citizens to conduct transactions with both the public and private sectors 
@@ -39,10 +38,9 @@ For more information on Myinfo business API, please read the [documentation](htt
 Singpass Login, is now available for private sector use via an API integration. With Login, users can do away with remembering one additional set of credentials. Businesses will be able to authenticate and onboard existing Singpass users with higher assurance.
 
 With Singpass Login, businesses will be able to :
-
-- authenticate users without the need to implement and operate additional infrastructure and systems;
-- offer users the Singpass password-less login experience, and a fast, convenient and secure means of authentication; and
-- provide access to their online services to over 4 million Singpass users.
+-	authenticate users without the need to implement and operate additional infrastructure and systems;
+-	offer users the Singpass password-less login experience, and a fast, convenient and secure means of authentication; and
+-	provide access to their online services to over 4 million Singpass users. 
 
 For more information, refer to Singpass Login API [here](https://api.singpass.gov.sg/library/login/developers/overview-at-a-glance).
 
@@ -51,7 +49,6 @@ For more information, refer to Singpass Login API [here](https://api.singpass.go
 Verify enables users to perform secure in-person identity verification and data sharing through scanning QR codes. This service provides businesses a digital alternative for visitor registration and access, customer acquisition at roadshows, or other use cases that require user identification.
 
 Verify helps businesses:
-
 - align with PDPC's NRIC Advisory Guidelines, by verifying users digitally without collecting or retaining physical NRICs, FIN cards, and NRIC/FIN numbers. Please refer to the PDPC's Technical Guide [here](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Technical-Guide-to-Advisory-Guidelines-on-NRIC-Numbers---260819.pdf).
 - enable self-service and contactless verification (e.g. kiosks for registration, or age-verification stations).
 
@@ -78,7 +75,7 @@ For more information on SafeEntry API, please read the [documentation](https://a
 
 ### Identiface
 
-Identiface is a secure authentication method by simply having the user scan their face - With a valid NRIC/FIN number and upon obtaining consent, users can simply scan their face to be authenticated.
+Identiface is a secure authentication method by simply having the user scan their face - With a valid NRIC/FIN number and upon obtaining consent, users can simply scan their face to be authenticated. 
 
 Organisations do not have to build, secure and maintain a biometric database and biometric system implementation. Integration is achieved easily though bundled SDKs and APIs.
 

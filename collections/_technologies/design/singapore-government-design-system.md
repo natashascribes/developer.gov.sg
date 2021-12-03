@@ -2,7 +2,6 @@
 title: Singapore Government Design System
 layout: layout-page-sidenav
 category: Design
-sub_collection_render: true
 description: The Singapore Government Design System aims to unite the Government’s digital services around a common UI language and user experience.
 ---
 
