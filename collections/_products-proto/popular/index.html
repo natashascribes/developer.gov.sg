@@ -1,0 +1,35 @@
+---
+title: Popular Posts
+layout: layout-page-sidenav
+description: >
+  Our open-source technologies cover a range of areas such as COVID-19 and digital identity.
+  Find out more here!
+---
+
+<div class="card-grid-container grid-25rem">
+    {% assign page_collection = page.collection %}
+    {% assign sub_collection = page.id | split: "/" | shift | first %}
+    {% comment %} 
+      if page is at /guidelines/project-inception/,
+      then collection = guidelines and sub-collection is project-inception 
+    {% endcomment %}
+  
+    {% assign full_collection = site[page_collection] %}
+    {% for doc in full_collection %}
+      {% assign doc_sub_collection = doc.id | split: "/" | shift | shift | first %}
+      {% if doc.collection_group | downcase == sub_collection%}
+      <div class="sgds-card sgds-card-variant-category-info grid-item">
+        <div class="sgds-card-content">
+          <header>
+            <h4><a href="{{ doc.url }}">{{ doc.title }}</a></h4>
+          </header>
+          <p>
+            <!-- TODO: [issue] markdownify create blank <p> tag at the top and bottom of description -->
+            {{ doc.description | markdownify }} <br>
+          </p>
+        </div>
+      </div>
+  
+      {% endif %}
+    {% endfor %}
+</div>

@@ -21,6 +21,15 @@
       service for Singapore
   dropdown: true
 
+- title: Products Proto
+  url: /products-proto
+  description:
+    heading: Build on existing technologies
+    content: >
+      Discover technologies to leverage on to build the next digital
+      service for Singapore
+  dropdown: true
+
 - title: Singapore Government Tech Stack
   url: /singapore-government-tech-stack
   description:
@@ -37,7 +46,6 @@
       Discover events, blogs, open-source technologies and other
       collaboration opportunities
   dropdown: true
-
 # - title: Gigs
 #   url: /gigs
 

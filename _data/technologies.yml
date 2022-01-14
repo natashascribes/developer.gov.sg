@@ -1,5 +1,6 @@
 - name: Digital Solutions to Address COVID-19
   description: Digital Solutions for a 21st Century Pandemic
+  path: /products-proto/digital-solutions-to-address-covid-19
   items:
     - Overview
     - COVID-19 ChatBots
@@ -13,24 +14,26 @@
     - SupplyAlly
     - TraceTogether
     - VigilantGantry
-    
+
 - name: Open-source
+  path: /products-proto/open-source
   description: Government-built open-source technologies and tools
 
 - name: Analytics
+  path: /products-proto/analytics
   description: Web analytics tools to help you better understand your users and make data-driven decisions
   items:
     - Overview
     - Personalise
     - VAS
     - WOGAA
-    
+
 - name: Blockchain
   description: Distributed ledger technologies that enable the usage of decentralised, tamper-proof records
   items:
     - Overview
     - OpenCerts
-    
+
 - name: Content Management
   description: Platforms that enable easy and reliable hosting and publishing of content on the web
   items:
@@ -38,7 +41,7 @@
     - Content Website Platform
     - Isomer
     - OpenDoc
-    
+
 - name: Data and APIs
   description: Open APIs and platforms allowing developers to connect with data and services from the Government
   items:
@@ -51,9 +54,9 @@
     - MAS APIs
     - OneMap APIs
     - SingStat APIs
-    - Tourism Information and Services Hub 
+    - Tourism Information and Services Hub
     - URA APIs
-    
+
 - name: Design
   description: Design guidelines and libraries
   items:
@@ -75,7 +78,7 @@
     - SGFinDex
     - Singpass
     - Verify
-    
+
 - name: Infrastructure and Hosting
   description: Host applications in secure environments at scale
   items:

@@ -1,0 +1,76 @@
+{%- assign collectionName = page.collection -%}
+{%- assign filteredCollections = site.collections | where: "label", collectionName -%}
+{%- assign currentCollection = filteredCollections[0] -%}
+{%- assign categories = site.data[currentCollection.label] -%}
+{%- for category in categories -%}
+
+  {%- assign page_id_terms = page.id | split: "/" -%}
+  {% assign page_id_last = page_id_terms | last %}
+  {% if (page_id_last == "index" or page_id_last == "overview") %}
+    {%- assign page_id_terms = page_id_terms | pop -%}
+    {% assign page_id_last = page_id_terms | last %}
+  {% endif %}
+
+  {%- assign category_active = false -%}
+  {%- assign items = category.items -%}
+  {%- for item in items -%}
+    {%- assign item_slug = item | slugify -%}
+    {%- if (page_id_last == item_slug) -%}
+      {%- assign category_active = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- assign class = nil -%}
+  {%- assign category_slug = category.name | slugify -%}
+  {%- if (page.url contains category_slug or category_active) -%}
+    {%- assign class='is-active' -%}
+  {%- endif -%}
+  
+  {%- if category.items -%}
+    <li class="second-level-nav">
+      <a
+        href="#!"
+        class="{{ class }} second-level-nav-header">
+        {{ category.name }}
+        <i class="sgds-icon sgds-icon-chevron-down" aria-hidden="true"></i>
+      </a>
+    </li>
+
+    {% assign hide_nav_section = 'is-hidden' %}
+    {% if (page.url contains category_slug or category_active ) %}
+      {% assign hide_nav_section = nil %}
+    {% endif %}
+    <ul class="second-level-nav-div {{ hide_nav_section }}">
+      {%- for item in items -%}
+
+        {% comment %}
+        Compare page's id (file path without .html extension) to each link to see if page is active.
+        {% endcomment %}
+        {%- assign item_slug = item | slugify -%}
+
+
+        {%- assign class = nil -%}
+        {%- if (page_id_last == item_slug) -%}
+          {%- assign class = 'is-active' -%}
+        {%- endif -%}
+
+        {%- assign sidenav_tem_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
+        {%- if (category_slug == 'collections' or category_slug == 'categories') -%}
+          {%- assign sidenav_tem_url = '/' | append: currentCollection.label | append: '/' | append: item_slug -%}
+        {%- endif -%}
+
+        <li>
+          <a
+              class="second-level-nav-item {{ class }}"
+              href="{{ sidenav_tem_url  }}"
+          >
+            {{ item }}
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- else -%}
+    {% assign link_slug = category.name | slugify %}
+    <li><a href="{{ '/' | append: currentCollection.label | append: '/' | append: link_slug }}" class="{{ class }}">{{ category.name }}</a></li>
+  {%- endif -%}
+{%- endfor -%}

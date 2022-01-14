@@ -1,7 +1,7 @@
 ---
 layout: layout-page
 ---
-
+{%- assign collectionName = page.collection -%}
 <div class="row sidenav-container">
   <div class="col is-2 is-hidden-touch sidenav">
     <aside class="sgds-menu">
@@ -9,7 +9,11 @@ layout: layout-page
         {%- if page.single_level_nav-%}
           {%- include sidenav-single-level.html -%}
         {% else %}
-          {%- include sidenav.html -%}
+          {%- if collectionName == 'products-proto'-%}
+            {%- include sidenav-products-proto.html -%}
+          {% else %}
+            {%- include sidenav.html -%}
+          {% endif %}
         {% endif %}
       </ul>
     </aside>
