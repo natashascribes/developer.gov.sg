@@ -73,6 +73,13 @@
     </ul>
   {%- else -%}
     {% assign link_slug = category.name | slugify %}
-    <li><a href="{{ '/' | append: currentCollection.label | append: '/' | append: link_slug }}" class="{{ class }}">{{ category.name }}</a></li>
+    <li>
+      <a href="{{ '/' | append: currentCollection.label | append: '/' | append: link_slug }}" class="{{ class }}">
+        {{ category.name }}
+        {%- if  category_slug == "all-products" -%}
+          <i class="sgds-icon sgds-icon-grid" aria-hidden="true"></i>
+        {%- endif -%}
+      </a>
+    </li>
   {%- endif -%}
 {%- endfor -%}

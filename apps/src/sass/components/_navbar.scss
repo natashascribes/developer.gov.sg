@@ -13,7 +13,7 @@
     display: none;
   }
 
-  .field{
+  .field {
     padding: 0.5rem;
   }
 }
@@ -22,7 +22,7 @@
   max-height: 3rem;
 }
 
-.sgds-navbar-brand a.sgds-navbar-item:hover{
+.sgds-navbar-brand a.sgds-navbar-item:hover {
   text-decoration: none;
   color: #484848;
 }
@@ -52,4 +52,12 @@
       padding: 0.75rem 1rem;
     }
   }
+}
+
+.sgds-link-icon {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  border-bottom: 1px solid #0070f2;
 }
