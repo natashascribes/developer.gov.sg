@@ -1,0 +1,116 @@
+- name: Digital Solutions to Address COVID-19
+  description: Digital Solutions for a 21st Century Pandemic
+  items:
+    - Overview
+    - COVID-19 ChatBots
+    - Government Assisted Living Ecosystem
+    - GoBusiness COVID Portal
+    - GoWhere Suite
+    - HealthCerts
+    - SafeEntry
+    - Space Out
+    - SPOTON
+    - SupplyAlly
+    - TraceTogether
+    - VigilantGantry
+
+- name: Open-source
+  description: Government-built open-source technologies and tools
+
+- name: Analytics
+  description: Web analytics tools to help you better understand your users and make data-driven decisions
+  items:
+    - Overview
+    - Personalise
+    - VAS
+    - WOGAA
+
+- name: Blockchain
+  description: Distributed ledger technologies that enable the usage of decentralised, tamper-proof records
+  items:
+    - Overview
+    - OpenCerts
+
+- name: Content Management
+  description: Platforms that enable easy and reliable hosting and publishing of content on the web
+  items:
+    - Overview
+    - Content Website Platform
+    - Isomer
+    - OpenDoc
+
+- name: Data and APIs
+  description: Open APIs and platforms allowing developers to connect with data and services from the Government
+  items:
+    - Overview
+    - APEX
+    - BookingSG
+    - data.gov.sg
+    - IRAS API Marketplace
+    - Land Transport Datamall
+    - MAS APIs
+    - OneMap APIs
+    - SingStat APIs
+    - Tourism Information and Services Hub
+    - URA APIs
+
+- name: Design
+  description: Design guidelines and libraries
+  items:
+    - Overview
+    - Singapore Government Design System
+
+- name: DevOps
+  description: Tools that enable the delivery of software quickly, securely and reliably in the spirit of DevOps
+
+- name: Digital Identity
+  description: Make use of Government-backed digital identities to identify and transact with individuals and businesses
+  items:
+    - Overview
+    - Identiface
+    - Login
+    - Myinfo
+    - Myinfo business
+    - National Digital Identity
+    - SGFinDex
+    - Singpass
+    - Verify
+
+- name: Infrastructure and Hosting
+  description: Host applications in secure environments at scale
+  items:
+    - Overview
+    - Government on Commercial Cloud
+
+- name: Sensor Platforms and Internet of Things
+  description: Build on sensors and IOT technologies and leverage their data
+  items:
+    - Overview
+    - Asynchronous Data Exchange
+    - DECADA - IoT Tech Stack
+    - DECADA Embedded
+    - DECADA Edge Gateway
+    - DECADA Cloud
+    - Digital Operations Smart Services
+    - eCanvas
+    - ePAD
+    - Lamppost-as-a-Platform
+    - Personal Alert Button
+    - SenseOps
+    - Sensor Asset Management
+    - Smart Gardens
+    - SmartGym
+    - SPOTON
+
+- name: Platform
+  description: Digital platform for citzens, agencies and businesses
+  items:
+    - Overview
+    - GoBusiness
+    - LifeSG
+
+- name: Productivity Tools
+  description: Tools to enhance your experience at work and help you achieve more
+  items:
+    - Overview
+    - Asset Management System

@@ -1,6 +1,6 @@
 - name: Digital Solutions to Address COVID-19
   description: Digital Solutions for a 21st Century Pandemic
-  path: /products-proto/digital-solutions-to-address-covid-19
+  path: /products/digital-solutions-to-address-covid-19
   items:
     - Overview
     - COVID-19 ChatBots
@@ -16,11 +16,11 @@
     - VigilantGantry
 
 - name: Open-source
-  path: /products-proto/open-source
+  path: /products/open-source
   description: Government-built open-source technologies and tools
 
 - name: Analytics
-  path: /products-proto/analytics
+  path: /products/analytics
   description: Web analytics tools to help you better understand your users and make data-driven decisions
   items:
     - Overview

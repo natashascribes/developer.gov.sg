@@ -1,0 +1,15 @@
+- name: Personalise
+  description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.
+  items:
+    - Overview
+    - Getting Started
+    - Contact Us
+
+- name: WOGAA
+  description: >
+    WOGAA is an analytics & performance platform for public officers to monitor the health of their government websites and optimise the performance of
+    their digital services with data.
+  items:
+    - Overview
+    - Getting Started
+    - Contact Us

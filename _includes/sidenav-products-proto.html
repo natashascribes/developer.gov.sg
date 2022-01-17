@@ -47,10 +47,11 @@
         Compare page's id (file path without .html extension) to each link to see if page is active.
         {% endcomment %}
         {%- assign item_slug = item | slugify -%}
-
-
         {%- assign class = nil -%}
-        {%- if (page_id_last == item_slug) -%}
+        {%- if page_id_last == item_slug -%}
+          {%- assign class = 'is-active' -%}
+        {%- endif -%}
+        {%- if page_id_last == "overview" and page.url contains category_slug -%}
           {%- assign class = 'is-active' -%}
         {%- endif -%}
 

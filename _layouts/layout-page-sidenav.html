@@ -9,8 +9,8 @@ layout: layout-page
         {%- if page.single_level_nav-%}
           {%- include sidenav-single-level.html -%}
         {% else %}
-          {%- if collectionName == 'products-proto'-%}
-            {%- include sidenav-products-proto.html -%}
+          {%- if collectionName == 'products'-%}
+            {%- include sidenav.html is_products=true -%}
           {% else %}
             {%- include sidenav.html -%}
           {% endif %}

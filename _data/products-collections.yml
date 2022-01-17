@@ -1,0 +1,27 @@
+- name: What's New
+  description: New Tings
+  items:
+    - Overview
+    - OpenCerts
+
+- name: Popular
+  description: Government-built open-source technologies and tools
+  items:
+    - Overview
+    - WOGAA
+    - Personalise
+# - name: COVID-19
+#   description: Web analytics tools to help you better understand your users and make data-driven decisions
+#   items:
+#     - Overview
+#     - COVID-19 ChatBots
+#     - Government Assisted Living Ecosystem
+#     - GoBusiness COVID Portal
+#     - GoWhere Suite
+#     - HealthCerts
+#     - SafeEntry
+#     - Space Out
+#     - SPOTON
+#     - SupplyAlly
+#     - TraceTogether
+#     - VigilantGantry

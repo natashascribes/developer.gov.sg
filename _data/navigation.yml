@@ -21,8 +21,8 @@
       service for Singapore
   dropdown: true
 
-- title: Products Proto
-  url: /products-proto
+- title: Products
+  url: /products
   description:
     heading: Build on existing technologies
     content: >

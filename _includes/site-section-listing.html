@@ -1,3 +1,4 @@
+{% assign is_collection = include.is_collection %}
 {% if include.disabledItemCount %}
 {% assign disabledItemCount = true %}
 {% else %}
@@ -6,25 +7,18 @@
 <div class="card-grid-container grid-25rem">
   {% for category in site.data[include.sectionName] %}
     {% assign item_count = category.items | size | minus: 1 %}
-    <div class="sgds-card sgds-card-variant-category-info">
-      <div class="sgds-card-content">
-        {% assign name = category.name | downcase | replace:" ","-" %}
-        <img src="/assets/img/{{page.title | downcase}}/{{name}}.svg" alt="">
-        <header>
-          <a href="{{ category.name | slugify }}"><h4>{{ category.name }}</h4></a>
-          {% if item_count > 0 and disabledItemCount == false %}
-            <small>
-                ({{ item_count }}&nbsp;
-                {%- if item_count == 1 -%}
-                  item
-                {%- elsif item_count > 1 -%}
-                  items
-                {%- endif -%})
-            </small>
-          {% endif %}
-        </header>
-        <p>{{ category.description }}</p>
-      </div>
-    </div>
+    {% if is_collection %}
+      {%include card-variant-header-group.html parentCardStyle = "sgds-card-variant-collection-info" 
+      contentHeaderStyle = "sgds-card-content-collection-header" category = category 
+      img-src = "/assets/img/products/collections-card.svg" img-label = "COLLECTIONS"
+      disabledItemCount = disabledItemCount
+      %}
+    {% else %}
+      {% assign name = category.name | downcase | replace:" ","-" %}
+      {% assign img-src = '/assets/img/' | append: page.title | downcase | append : '/' | append: name | append: '.svg' %}
+      {%include card-variant-no-group.html parentCardStyle = "sgds-card-variant-category-info" 
+      category = category img-src = img-src disabledItemCount = disabledItemCount
+      %}
+    {% endif %}
   {% endfor %}
 </div>

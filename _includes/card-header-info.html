@@ -1,0 +1,16 @@
+{% assign category = include.category %}
+{% assign disabledItemCount = include.disabledItemCount %}
+{% assign item_count = category.items | size | minus: 1 %}
+<header>
+    <a href="{{ category.name | slugify }}"><h4>{{ category.name }}</h4></a>
+    {% if item_count > 0 and disabledItemCount == false %}
+      <small>
+          ({{ item_count }}&nbsp;
+          {%- if item_count == 1 -%}
+            item
+          {%- elsif item_count > 1 -%}
+            items
+          {%- endif -%})
+      </small>
+    {% endif %}
+</header>

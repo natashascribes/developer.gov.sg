@@ -1,15 +1,31 @@
-- name: Personalise
-  description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.
-  items:
-    - Overview
-    - Getting Started
-    - Contact Us
+- name: Overview
+  description: Overview of products prototype
 
-- name: WOGAA
-  description: >
-    WOGAA is an analytics & performance platform for public officers to monitor the health of their government websites and optimise the performance of
-    their digital services with data.
+- name: All Products
+  description: Government-built open-source technologies and tools
+
+- name: Collections
+  path: /products/overview/#collections
+  description: Digital Solutions for a 21st Century Pandemic
   items:
-    - Overview
-    - Getting Started
-    - Contact Us
+    - Popular
+    - What's New
+    - Covid-19
+
+- name: Categories
+  path: /products/overview/#categories
+  description: Government-built open-source technologies and tools
+  items:
+    - Digital Solutions to Address COVID-19
+    - Open-source
+    - Analytics
+    - Blockchain
+    - Content Management
+    - Data and APIs
+    - Design
+    - DevOps
+    - Digital Identity
+    - Infrastructure and Hosting
+    - Sensor Platforms and Internet of Things
+    - Platform
+    - Productivity Tools
