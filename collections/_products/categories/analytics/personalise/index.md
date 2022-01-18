@@ -4,7 +4,7 @@ mobile_title: Personalise
 layout: layout-page-sidenav
 category: Analytics
 collection_group: [Popular]
-redirect_from: /technologies/analytics/personalise/
+redirect_from: /products/categories/analytics/personalise/
 _data: product
 sub_collection_render: true
 single_level_nav: false

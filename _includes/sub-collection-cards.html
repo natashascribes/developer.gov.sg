@@ -1,22 +1,35 @@
+{% assign is_collection = include.is_collection %}
+{% assign is_products = include.is_products %}
 <div class="card-grid-container grid-25rem">
   {% assign page_collection = page.collection %}
-  {% assign sub_collection = page.id | split: "/" | shift | shift | first %}
+  {% if is_products %}
+    {% assign sub_collection = page.id | split: "/" | shift | shift | shift | first %}
+  {% else %}
+    {% assign sub_collection = page.id | split: "/" | shift | shift | first %}  
+  {% endif %}
+
   {% comment %} 
     if page is at /guidelines/project-inception/,
     then collection = guidelines and sub-collection is project-inception 
   {% endcomment %}
+
   {% assign full_collection = site[page_collection] %}
   {% for document in full_collection %}
-    {% assign document_sub_collection = document.id | split: "/" | shift | shift | first %}
+    {% if is_products %}
+      {% assign document_sub_collection = document.id | split: "/" | shift | shift | shift | first %}  
+    {% else %}
+      {% assign document_sub_collection = document.id | split: "/" | shift | shift | first %}  
+    {% endif %}
     {% comment %}
       we are checking each page's front matter variable called sub_collection_render when we call document.sub_collection_render
       if set to false, the page will not render in the sub collection cards
     {% endcomment %}
     {% assign sub_collection_check = false %}
-    {% if include.isCollection %}
+    {% if is_collection %}
       {% comment %}
         Check sub_collection against collection_group if current document is under collections tab.
       {% endcomment %}
+
       {% assign collection_group = document.collection_group %}
       {% for collection in collection_group%}
         {% assign collection_slug = collection | slugify %}
@@ -29,7 +42,6 @@
         {% assign sub_collection_check = true%}
       {% endif %}
     {% endif %}
-
     {% if sub_collection_check and page.title != document.title and document.sub_collection_render%}
     <div class="sgds-card sgds-card-variant-category-info grid-item">
       <div class="sgds-card-content">

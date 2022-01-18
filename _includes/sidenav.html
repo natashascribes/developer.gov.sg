@@ -6,7 +6,7 @@
 {%- for category in categories -%}
   {%- assign page_id_terms = page.id | split: "/" -%}
   {% assign page_id_last = page_id_terms | last %}
-  {% if (page_id_last == "index" or page_id_last == "overview") %}
+  {% if page_id_last == "index" %}
     {%- assign page_id_terms = page_id_terms | pop -%}
     {% assign page_id_last = page_id_terms | last %}
   {% endif %}
@@ -14,6 +14,10 @@
   {%- assign item_active = false -%}
   {%- assign items = category.items -%}
   {% if is_products %}
+  {% if page_id_last == "overview" %}
+    {%- assign page_id_terms = page_id_terms | pop -%}
+      {% assign page_id_last = page_id_terms | last %}
+    {% endif %}
     {%- for item in items -%}
       {%- assign item_slug = item | slugify -%}
       {%- if (page_id_last == item_slug) -%}
@@ -53,14 +57,16 @@
           {%- if page_id_last == item_slug -%}
             {%- assign class = 'is-active' -%}
           {%- endif -%}
-          {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: item_slug -%}
         {% else %}
-          {%- if item_slug == "overview" and page.url contains category_slug-%}
+          {% if page_id_last == item_slug and page.url contains category_slug %}
             {%- assign class = 'is-active' -%}
+          {% else %}
+            {%- if page_id_last == item_slug and page.url contains category_slug-%}
+              {%- assign class = 'is-active' -%}
+            {%- endif -%}
           {%- endif -%}
-          {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
         {% endif %}
-
+        {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
         <li>
           <a
               class="second-level-nav-item {{ class }}"

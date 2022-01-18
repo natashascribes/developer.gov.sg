@@ -2,8 +2,9 @@
   the category and folder name is obtained directly from page.id
 {% endcomment %}
 {%- assign collection = page.collection -%}
-{%- assign current_category = page.id | split: "/" | shift | shift | first -%}
-{%- assign folder_name = page.id | split: "/" | shift | shift | shift | first -%}
+{%- assign sub_collection = page.id | split: "/" | shift | shift | first -%}
+{%- assign current_category = page.id | split: "/" | shift | shift | shift | first -%}
+{%- assign folder_name = page.id | split: "/" | shift | shift | shift | shift | first -%}
 
 {%- assign active_page = page.id | split: "/" | last -%}
 
@@ -33,7 +34,7 @@
 <li>
     <a
         class="single-level-nav {{ class }}"
-        href="{{ '/' | append: collection | append: '/' | append: current_category | append: '/' | append: folder_name | append: '/' | append: item_url }}"
+        href="{{ '/' | append: collection | append: '/' | append: sub_collection | append: '/' | append: current_category | append: '/' | append: folder_name | append: '/' | append: item_url }}"
     >
       {{ item }}
     </a>
