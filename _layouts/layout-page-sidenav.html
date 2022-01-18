@@ -10,7 +10,7 @@ layout: layout-page
           {%- include sidenav-single-level.html -%}
         {% else %}
           {%- if collectionName == 'products'-%}
-            {%- include sidenav.html is_products=true -%}
+            {%- include sidenav-products.html -%}
           {% else %}
             {%- include sidenav.html -%}
           {% endif %}

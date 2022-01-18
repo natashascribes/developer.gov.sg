@@ -3,6 +3,7 @@ title: Toolchain
 layout: layout-page-sidenav
 redirect_from: 
   - /singapore-government-tech-stack/toolchain/
+  - /products/categories/devops
   - /technologies/devops
   - /technologies/devops/ship
   - /technologies/devops/hats

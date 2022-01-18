@@ -1,0 +1,16 @@
+{% assign class = include.class %}
+{% assign category = include.category %}
+{% assign href = include.href %}
+{% assign icon_class = include.icon_class %}
+
+<li class="second-level-nav">
+    <a
+      href="{{href}}"
+      class="{{ class }} second-level-nav-header">
+      {{ category.name }}
+
+      {% if icon_class %}
+        <i class="sgds-icon {{icon_class}}" aria-hidden="true"></i>
+      {% endif %}
+    </a>
+</li>

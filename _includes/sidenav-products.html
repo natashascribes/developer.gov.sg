@@ -11,16 +11,32 @@
   {% endif %}
   {%- assign category_items = category.items -%}
 
+  {% comment %}
+      Different from sidenav.html. Needed to check if accordion should be open. Since collections/ and categories/ has no overview.html
+      , doing page.url contains category_slug is not enough.
+  {% endcomment %}
+  {%- assign item_active = false -%}
+  {%- for item in category_items -%}
+    {%- assign item_slug = item | slugify -%}
+    {%- if (page_id_last == item_slug) -%}
+      {%- assign item_active = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+
   {%- assign class = nil -%}
   {%- assign category_slug = category.name | slugify -%}
   {%- if page.url contains category_slug -%}
     {%- assign class='is-active' -%}
   {%- endif -%}
-
+  
   {%- if category_items -%}
-    {% include sidenav-second-lvl-nav.html class=class category=category href="#!" icon_class="sgds-icon-chevron-down" %}
+    {% include sidenav-second-lvl-nav.html class=class category=category href="#!" is_icon=true icon_class="sgds-icon-chevron-down" %}
     {% assign hide_nav_section = 'is-hidden' %}
-    {% if page.url contains category_slug %}
+    {% comment %}
+       Different from sidenav.html.
+    {% endcomment %}
+    {% if item_active %}
       {% assign hide_nav_section = nil %}
     {% endif %}
     <ul class="second-level-nav-div {{ hide_nav_section }}">
@@ -29,13 +45,13 @@
         Compare page's id (file path without .html extension) to each link to see if page is active.
         {% endcomment %}
         {%- assign item_slug = item | slugify -%}
-
+        
         {%- assign class = nil -%}
-        {%- if (page_id_last == item_slug and page.url contains category_slug) -%}
+        {%- if page_id_last == item_slug and page.url contains category_slug -%}
           {%- assign class = 'is-active' -%}
         {%- endif -%}
         {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
-        {% include sidenav-second-lvl-nav-item.html class = class sidenav_item_url = sidenav_item_url item = item %}
+        {% include sidenav-second-lvl-nav-item.html class = class sidenav_item_url = sidenav_item_url item = item%}
       {%- endfor -%}
     </ul>
   {%- else -%}

@@ -1,0 +1,12 @@
+{% assign document = include.document %}
+<div class="sgds-card sgds-card-variant-category-info grid-item">
+    <div class="sgds-card-content">
+      <header>
+        <h4><a href="{{ document.url }}">{{ document.title }}</a></h4>
+      </header>
+      <p>
+        <!-- TODO: [issue] markdownify create blank <p> tag at the top and bottom of description -->
+        {{ document.description | markdownify }} <br>
+      </p>
+    </div>
+  </div>
