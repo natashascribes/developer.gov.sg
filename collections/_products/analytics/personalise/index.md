@@ -3,7 +3,7 @@ title: Personalise – Curating Tailored Citizen Experiences
 mobile_title: Personalise
 layout: layout-page-sidenav
 category: Analytics
-collection_group: [Not Popular, Popular]
+collection_group: [Popular]
 redirect_from: /technologies/analytics/personalise/
 _data: product
 sub_collection_render: true
