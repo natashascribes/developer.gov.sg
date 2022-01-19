@@ -4,7 +4,7 @@ mobile_title: WOGAA
 layout: layout-page-sidenav
 category: Analytics
 redirect_from: /technologies/analytics/wogaa/
-_data: product
+_data: single-level-nav
 sub_collection_render: true
 single_level_nav: false
 description: >

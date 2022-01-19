@@ -2,6 +2,7 @@
 layout: layout-page
 ---
 {%- assign collectionName = page.collection -%}
+{%- assign url_last = page.id | split: "/" | last -%}
 <div class="row sidenav-container">
   <div class="col is-2 is-hidden-touch sidenav">
     <aside class="sgds-menu">
@@ -20,6 +21,12 @@ layout: layout-page
   </div>
   {% if page.sharable == true or page.sharable == nil %}
   <div class="col is-8 is-offset-1 is-12-mobile">
+
+    {% if collectionName == "products" and url_last != "overview" and page.single_level_nav == nil %}
+      <h2>{{page.title}}</h2>
+      <p id="collections">{{page.sub-title}}</p>
+      <hr/>
+    {% endif %}
     {{ content }}
     <p class="text-last-updated">
       <em>

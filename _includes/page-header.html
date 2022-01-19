@@ -20,6 +20,12 @@ class="sgds-section breadcrumb-title-section has-background-general padding--bot
       <div class="col is-8">
         {% include sgds-breadcrumb.html %}
         {% assign main_title = page.title %}
+
+        {% if collection == "products" %}
+          {% unless page.url contains "all-products" or page.single_level_nav %}
+            {% assign main_title = "Products" %}
+          {% endunless %}
+        {% endif %}
         {% if page.mobile_title %}
         {% assign mobile_title = page.mobile_title %}
         <h1 class="has-text-white has-text-weight-bold is-hidden-mobile">{{ main_title }}</h1>

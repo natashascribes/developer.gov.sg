@@ -1,15 +1,9 @@
-{% assign parentCardStyle = include.parentCardStyle %}
-{% assign contentHeaderStyle = include.contentHeaderStyle %}
-{% assign img-src = include.img-src %}
-{% assign img-label = include.img-label %}
-{% assign category = include.category %}
-{% assign disabledItemCount = disabledItemCount %}
 <div class="sgds-card {{parentCardStyle}}">
     <div class="sgds-card-content">
       {% assign name = category.name | downcase | replace:" ","-" %}
       <div class="{{contentHeaderStyle}}">
-        <div><img src="{{img-src}}" alt=""/><span>{{img-label}}</span></div>
-        {% include card-header-info.html category=category disabledItemCount=disabledItemCount%}
+        <div><img src="{{img_src}}" alt=""/><span>{{img_label}}</span></div>
+        {% include card-header-info.html %}
       </div>
       <p>{{ category.description }}</p>
     </div>

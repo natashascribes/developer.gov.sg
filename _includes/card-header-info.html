@@ -1,8 +1,12 @@
-{% assign category = include.category %}
-{% assign disabledItemCount = include.disabledItemCount %}
-{% assign item_count = category.items | size | minus: 1 %}
+{% assign category_slug = category.name | slugify %}
+{% if is_collection %}
+  {% assign parent_category = 'collections' %}
+{% else %}
+  {% assign parent_category = 'categories' %}
+{% endif %}
+{% assign url_str = 'collections' | append: '/' | append: category.name %}
 <header>
-    <a href="{{ category.name | slugify }}"><h4>{{ category.name }}</h4></a>
+    <a href="{{ parent_category }}/{{category_slug}}"><h4>{{ category.name }}</h4></a>
     {% if item_count > 0 and disabledItemCount == false %}
       <small>
           ({{ item_count }}&nbsp;

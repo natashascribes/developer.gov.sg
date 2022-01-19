@@ -5,7 +5,7 @@ layout: layout-page-sidenav
 category: Analytics
 collection_group: [Popular]
 redirect_from: /products/categories/analytics/personalise/
-_data: product
+_data: single-level-nav
 sub_collection_render: true
 single_level_nav: false
 description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.

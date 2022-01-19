@@ -5,7 +5,7 @@ layout: layout-page-sidenav
 category: Analytics
 collection_group: [Popular, What's New]
 redirect_from: /products/categories/analytics/wogaa/
-_data: product
+_data: single-level-nav
 sub_collection_render: true
 single_level_nav: true
 description: >

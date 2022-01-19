@@ -8,17 +8,17 @@
   {% for category in site.data[include.sectionName] %}
     {% assign item_count = category.items | size | minus: 1 %}
     {% if is_collection %}
-      {%include card-variant-header-group.html parentCardStyle = "sgds-card-variant-collection-info" 
-      contentHeaderStyle = "sgds-card-content-collection-header" category = category 
-      img-src = "/assets/img/products/collections-card.svg" img-label = "COLLECTIONS"
-      disabledItemCount = disabledItemCount
-      %}
+      {% assign parentCardStyle = "sgds-card-variant-collection-info" %}
+      {% assign contentHeaderStyle = "sgds-card-content-collection-header" %}
+      {% assign img_src = "/assets/img/products/collections-card.svg" %}
+      {% assign img_label = "COLLECTIONS" %}
+      {% include card-variant-header-group.html %}
     {% else %}
       {% assign name = category.name | downcase | replace:" ","-" %}
-      {% assign img-src = '/assets/img/' | append: page.title | downcase | append : '/' | append: name | append: '.svg' %}
-      {%include card-variant-no-group.html parentCardStyle = "sgds-card-variant-category-info" 
-      category = category img-src = img-src disabledItemCount = disabledItemCount
-      %}
+      {% assign img_src = '/assets/img/' | append: page.title | downcase | append : '/' | append: name | append: '.svg' %}
+      {% assign parentCardStyle = "sgds-card-variant-category-info"  %}
+      {% include card-variant-basic.html %}
     {% endif %}
   {% endfor %}
 </div>
+
