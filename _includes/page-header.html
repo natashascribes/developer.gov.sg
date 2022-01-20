@@ -22,7 +22,12 @@ class="sgds-section breadcrumb-title-section has-background-general padding--bot
         {% assign main_title = page.title %}
 
         {% if collection == "products" %}
-          {% unless page.url contains "all-products" or page.single_level_nav %}
+          {%- assign page_id_terms = page.id | split: "/" -%}
+          {% assign page_id_last = page_id_terms | last %}
+          {% if page_id_last == "index" %}
+            {%- assign page_id_terms = page_id_terms | pop -%}
+          {% endif %}
+          {% unless page.url contains "all-products" or page_id_terms.size > 4 %}
             {% assign main_title = "Products" %}
           {% endunless %}
         {% endif %}

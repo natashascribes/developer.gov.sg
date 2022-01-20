@@ -1,6 +1,6 @@
 ---
 title: OpenCerts - An Easy Way to Check and Verify Your Certificates
-layout: layout-page-sidenav
+layout: layout-page
 category: Blockchain
 collection_group: [What's New]
 sub_collection_render: true
