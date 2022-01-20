@@ -2,6 +2,8 @@
 title: Monetary Authority of Singapore (MAS) APIs - Streamlining of Financial Applications through Data
 layout: layout-page-sidenav
 category: Data and APIs
+redirect_from: /products/categories/data-and-apis/mas-apis/
+_data: single-level-nav
 sub_collection_render: true
 description: >
   The Monetary Authority of Singapore (MAS) provides APIs for developers, allowing MAS’ applications to be streamlined.

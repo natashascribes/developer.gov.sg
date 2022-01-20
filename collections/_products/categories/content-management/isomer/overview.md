@@ -2,6 +2,8 @@
 title: Isomer
 layout: layout-page-sidenav
 category: Content management
+redirect_from: /products/categories/content-management/isomer/
+_data: single-level-nav
 sub_collection_render: true
 description: >
   Isomer is an informational website generator that provides templates 

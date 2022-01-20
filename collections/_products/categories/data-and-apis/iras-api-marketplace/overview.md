@@ -2,6 +2,8 @@
 title: Inland Revenue Authority of Singapore (IRAS) API Marketplace – Explore, Discover and Create Digital Services via APIs
 layout: layout-page-sidenav
 category: Data and APIs
+redirect_from: /products/categories/data-and-apis/iras-api-marketplace/
+_data: single-level-nav
 sub_collection_render: true
 description: IRAS API Marketplace offers tax-related APIs, Q&As and a community platform for developers to co-create with IRAS.
 ---

@@ -2,6 +2,8 @@
 title: OpenDoc
 layout: layout-page-sidenav
 category: Documentation
+redirect_from: /products/categories/content-management/opendoc/
+_data: single-level-nav
 sub_collection_render: true
 description: >
   OpenDoc is an online document viewer.

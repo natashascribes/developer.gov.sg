@@ -1,26 +1,93 @@
+# Analytics
 - name: Personalise
-  description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.
   items:
     - Overview
     - Getting Started
     - Contact Us
 
 - name: WOGAA
-  description: >
-    WOGAA is an analytics & performance platform for public officers to monitor the health of their government websites and optimise the performance of
-    their digital services with data.
   items:
     - Overview
     - Getting Started
     - Contact Us
 
+# Devops
 - name: SHIP-HATS
-  description: >
-    WOGAA is an analytics & performance platform for public officers to monitor the health of their government websites and optimise the performance of
-    their digital services with data.
   items:
     - Overview
     - What's New
     - Training Resources
     - Subscription
     - Contact Us
+
+# Blockchain
+- name: Opencerts
+  items:
+    - Overview
+
+# Content Management
+- name: Content Website Platform
+  items:
+    - Overview
+
+- name: Isomer
+  items:
+    - Overview
+
+- name: OpenDoc
+  items:
+    - Overview
+
+# Data and APIs
+- name: APEX
+  items:
+    - Overview
+
+- name: BookingSG
+  items:
+    - Overview
+
+- name: data.gov.sg
+  items:
+    - Overview
+
+- name: Enterprise Data Hub
+  items:
+    - Overview
+
+- name: IRAS API Marketplace
+  items:
+    - Overview
+
+- name: Land Transport DataMall
+  items:
+    - Overview
+
+- name: MAS APIs
+  items:
+    - Overview
+
+- name: Networked Trade Platform
+  items:
+    - Overview
+
+- name: OneMap APIs
+  items:
+    - Overview
+
+- name: SingStat APIs
+  items:
+    - Overview
+
+- name: Tourism Information and Services Hub
+  items:
+    - Overview
+
+- name: URA APIs
+  items:
+    - Overview
+
+# Design
+- name: Singapore Government Design System
+  items:
+    - Overview

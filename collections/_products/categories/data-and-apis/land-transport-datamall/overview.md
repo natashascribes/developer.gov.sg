@@ -2,6 +2,8 @@
 title: Land Transport DataMall - Collaboration and Co-creation of Innovative and Inclusive Transport Solutions
 layout: layout-page-sidenav
 category: Data and APIs
+redirect_from: /products/categories/data-and-apis/land-transport-datamall/
+_data: single-level-nav
 sub_collection_render: true
 description: Land Transport DataMall contains land-transport-related datasets and APIs by LTA to promote public-private collaborations.
 ---
