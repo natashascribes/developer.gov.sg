@@ -22,6 +22,7 @@ class="sgds-section breadcrumb-title-section has-background-general padding--bot
         {% assign main_title = page.title %}
 
         {% if collection == "products" %}
+          {% comment %} This checks that current page is a post under products. Instade of checking page.single-level-nav. {% endcomment %}
           {%- assign page_id_terms = page.id | split: "/" -%}
           {% assign page_id_last = page_id_terms | last %}
           {% if page_id_last == "index" %}

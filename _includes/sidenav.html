@@ -18,7 +18,9 @@
   {%- endif -%}
 
   {%- if category_items -%}
-    {% include sidenav-second-lvl-nav.html class=class category=category href="#!" icon_class="sgds-icon-chevron-down" %}
+    {% assign href = "#!" %}
+    {% assign icon_class = "sgds-icon-chevron-down" %}
+    {% include sidenav-second-lvl-nav.html %}
     {% assign hide_nav_section = 'is-hidden' %}
     {% if page.url contains category_slug %}
       {% assign hide_nav_section = nil %}
@@ -35,12 +37,13 @@
           {%- assign class = 'is-active' -%}
         {%- endif -%}
         {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
-        {% include sidenav-second-lvl-nav-item.html class = class sidenav_item_url = sidenav_item_url item = item %}
+        {% include sidenav-second-lvl-nav-item.html %}
       {%- endfor -%}
     </ul>
   {%- else -%}
     {% assign link_slug = category.name | slugify %}
-    {% assign url_str = '/' | append: currentCollection.label | append: '/' | append: link_slug %}
-    {% include sidenav-second-lvl-nav.html class=class category=category href=url_str icon_class=category.icon_class %}
+    {% assign href = '/' | append: currentCollection.label | append: '/' | append: link_slug %}
+    {% assign icon_class = category.icon_class %}
+    {% include sidenav-second-lvl-nav.html %}
   {%- endif -%}
 {%- endfor -%}

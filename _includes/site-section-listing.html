@@ -1,11 +1,5 @@
-{% assign is_collection = include.is_collection %}
-{% if include.disabledItemCount %}
-{% assign disabledItemCount = true %}
-{% else %}
-{% assign disabledItemCount = false %}
-{% endif %}
 <div class="card-grid-container grid-25rem">
-  {% for category in site.data[include.sectionName] %}
+  {% for category in site.data[sectionName] %}
     {% assign item_count = category.items | size | minus: 1 %}
     {% if is_collection %}
       {% assign parentCardStyle = "sgds-card-variant-collection-info" %}

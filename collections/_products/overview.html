@@ -15,11 +15,13 @@ redirect_from:
 <h2>Explore products by collection</h2>
 <p>Offerings to help to facilitate the quick and secure building of Government digital services</p>
 {% assign sectionName = 'products-collections' %}
-{% include site-section-listing.html sectionName=sectionName is_collection=true %}
+{% assign is_collection = true %}
+{% include site-section-listing.html %}
 
 <hr></hr>
 <h2 id="categories">Explore products by category</h2>
 <p>Offerings to help to facilitate the quick and secure building of Government digital services</p>
 
 {% assign sectionName = 'products-categories' %}
-{% include site-section-listing.html sectionName=sectionName %}
+{% assign is_collection = false %}
+{% include site-section-listing.html %}
