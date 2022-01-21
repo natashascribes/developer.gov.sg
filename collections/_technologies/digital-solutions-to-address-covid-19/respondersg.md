@@ -59,7 +59,7 @@ A ping will then be sent from DECADA to the GALE Case Management System (CMS) wh
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/respondersg-fig2.png" width="40%" height="40%" 
+    src="/assets/img/respondersg-fig2.png" width="70%" height="70%" 
     alt="Fig 2: GALE Case Management System"
   />
   <figcaption>Fig 2: GALE Case Management System</figcaption>
