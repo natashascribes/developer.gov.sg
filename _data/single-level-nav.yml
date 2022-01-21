@@ -91,3 +91,169 @@
 - name: Singapore Government Design System
   items:
     - Overview
+
+# Digital Identity
+- name: Identiface
+  items:
+    - Overview
+
+- name: Login
+  items:
+    - Overview
+
+- name: Myinfo
+  items:
+    - Overview
+
+- name: Myinfo Business
+  items:
+    - Overview
+
+- name: National Digital Identity
+  items:
+    - Overview
+
+- name: SGFinDex
+  items:
+    - Overview
+
+- name: Singpass
+  items:
+    - Overview
+
+- name: Verify
+  items:
+    - Overview
+
+# Digital Solutions to Address Covid19
+- name: Covid 19 Chatbots
+  items:
+    - Overview
+
+- name: GoBusiness COVID Portal
+  items:
+    - Overview
+
+- name: Government Assisted Living Ecosystem
+  items:
+    - Overview
+
+- name: GoWhere Suite
+  items:
+    - Overview
+
+- name: HealthCerts
+  items:
+    - Overview
+
+- name: SafeEntry
+  items:
+    - Overview
+
+- name: Space Out
+  items:
+    - Overview
+
+- name: SPOTON
+  items:
+    - Overview
+
+- name: SupplyAlly
+  items:
+    - Overview
+
+- name: TraceTogether
+  items:
+    - Overview
+
+- name: VigilantGantry
+  items:
+    - Overview
+
+# Infrastructure and Hosting
+- name: Government on Commercial Cloud
+  items:
+    - Overview
+
+- name: Nectar
+  items:
+    - Overview
+
+# Platform
+- name: GoBusiness
+  items:
+    - Overview
+
+- name: LifeSG
+  items:
+    - Overview
+
+# Productivity Tools
+- name: Asset Management System
+  items:
+    - Overview
+
+# Sensor Platforms and Internet of Things
+- name: Asynchronous Data Exchange
+  items:
+    - Overview
+
+- name: DECADA - Cloud
+  items:
+    - Overview
+
+- name: DECADA - Edge Gateway
+  items:
+    - Overview
+
+- name: DECADA - Embedded
+  items:
+    - Overview
+
+- name: DECADA - IoT TechStack
+  items:
+    - Overview
+
+- name: Digital Operations Smart Services
+  items:
+    - Overview
+
+- name: eCanvas
+  items:
+    - Overview
+
+- name: ePAD
+  items:
+    - Overview
+
+- name: Lamppost-as-a-Platform
+  items:
+    - Overview
+
+- name: Personal Alert Button
+  items:
+    - Overview
+
+- name: SenseOps
+  items:
+    - Overview
+
+- name: Sensor Asset Management
+  items:
+    - Overview
+
+- name: Smart Gardens
+  items:
+    - Overview
+
+- name: Smart Gym
+  items:
+    - Overview
+
+- name: SNSP
+  items:
+    - Overview
+
+- name: SPOTON
+  items:
+    - Overview

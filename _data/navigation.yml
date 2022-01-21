@@ -12,14 +12,14 @@
       of Government development teams
   dropdown: true
 
-- title: Technologies
-  url: /technologies
-  description:
-    heading: Build on existing technologies
-    content: >
-      Discover technologies to leverage on to build the next digital
-      service for Singapore
-  dropdown: true
+# - title: Technologies
+#   url: /technologies
+#   description:
+#     heading: Build on existing technologies
+#     content: >
+#       Discover technologies to leverage on to build the next digital
+#       service for Singapore
+#   dropdown: true
 
 - title: Products
   url: /products
