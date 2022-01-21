@@ -70,6 +70,7 @@
   description: Make use of Government-backed digital identities to identify and transact with individuals and businesses
   items:
     - Overview
+    - Corppass
     - Identiface
     - Login
     - Myinfo
@@ -111,6 +112,7 @@
     - Overview
     - GoBusiness
     - LifeSG
+    - Virtual Intelligent Chat Assistant 
 
 - name: Productivity Tools
   description: Tools to enhance your experience at work and help you achieve more

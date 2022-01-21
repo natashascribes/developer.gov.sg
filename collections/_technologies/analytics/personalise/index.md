@@ -85,11 +85,11 @@ This tool helps bring relevant content to citizens through agency’s websites. 
 
 **Email Personalisation**
 
-The [Ministry of Education (MOE)](https://www.moe.gov.sg/){:target="\_blank"} SchoolBag team uses Personalise’s email persoanlisation tool to send out a monthly personalised newsletter to their subscribers to increase their site engagements. Here is how they do it:
+The [Ministry of Education (MOE)](https://www.moe.gov.sg/){:target="_blank"} School Bag team uses Personalise’s email persoanlisation tool to send out a monthly personalised newsletter to their subscribers to increase their site engagements. Here is how they do it:
 
-The SchoolBag team uploads a new set of subscribers onto the email personalisation tool’s “Audience” module every month. This module ensures that existing records are updated and duplicates are removed.
+The School Bag team uploads a new set of subscribers onto the email personalisation tool’s “Audience” module every month. This module ensures that existing records are updated and duplicates are removed.
 
-The SchoolBag team will then create a new newsletter through the “Campaign” module simply by uploading email assets and choosing the right subscriber list. On top of that, the team can also create user segments and customer journeys through rules within the “Workflow” interface. This is so that each group of users can receive customised follow-up emailers based on their actions and attributes.
+The School Bag team will then create a new newsletter through the “Campaign” module simply by uploading email assets and choosing the right subscriber list. On top of that, the team can also create user segments and customer journeys through rules within the “Workflow” interface. This is so that each group of users can receive customised follow-up emailers based on their actions and attributes.
 
 When a campaign is launched, the performance of the campaign will be tracked and any unsubscribes or bounces will be managed accordingly.
 
