@@ -3,6 +3,21 @@ title: ResponderSG – A Lifesaving App From the Community, For the Seniors
 layout: layout-page-sidenav
 category: Digital Solutions to Address COVID-19
 description: ResponderSG is a mobile app that alerts members of the public to nearby calls for assistance from seniors living alone.
+bios:
+  - name: Joy Ng, Senior UX Designer
+    img_src: pab-joy-ng.png
+    desc: |
+      Joy is a UX Designer working on GovTech Assisted Living Ecosystem (GALE). Prior to GovTech, she worked in Fintech and academia. She has interests in designing crowdsourcing platforms and has worked on projects such as OneService App and ResponderSG App. She holds a Masters in Communications and New Media from NUS.
+      
+  - name: Kelvin Lim, UX Designer
+    img_src: pab-kelvin-lim.png
+    desc: |
+      Kelvin is a UX Designer who worked on the research and design of the PAB. He graduated from LASALLE College of the Arts, with an honours degree in Design Communication. Kelvin is also a trained and detail-oriented graphic designer. In his free time, Kelvin likes to tinker with mechanical keyboards and get his hands dirty from collecting rare house plants.
+
+  - name: Adrian Tan, Delivery Manager
+    img_src: pab-adrian-tan.png
+    desc: |
+      Adrian Tan is a Product Lead and Delivery Manager at GovTech. He has over eight years of experience in Product Management, Business Analyst, Scrum Master, and Product Owner roles. Before joining GovTech, he was a start-up founder, Product Manager at a development house, and Product Owner/Product Manager at Municipal Services Office. Adrian specialises in facilitating inception workshops, managing multiple scrum teams, and mentoring new Delivery Managers. He is deeply interested in using technology to solve complex real-world problems.
 ---
 
 ### Overview
