@@ -34,7 +34,7 @@ As time is of the essence for urgent cases, ResponderSG provides timely help bas
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/respondersg-fig1.png" width="100%" height="100%" 
+    src="/assets/img/respondersg-fig1.png" width="30%" height="30%" 
     alt="Fig 1: ResponderSG"
   />
   <figcaption>Fig 1: ResponderSG</figcaption>
@@ -59,7 +59,7 @@ A ping will then be sent from DECADA to the GALE Case Management System (CMS) wh
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/respondersg-fig2.png" width="100%" height="100%" 
+    src="/assets/img/respondersg-fig2.png" width="40%" height="40%" 
     alt="Fig 2: GALE Case Management System"
   />
   <figcaption>Fig 2: GALE Case Management System</figcaption>
@@ -73,7 +73,7 @@ After checking on the condition of the senior and ascertaining the extent of urg
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/respondersg-fig3.png" width="100%" height="100%" 
+    src="/assets/img/respondersg-fig3.png" width="40%" height="40%" 
     alt="Fig 3: Responders can leave case notes on the app after closing a case"
   />
   <figcaption>Fig 3: Responders can leave case notes on the app after closing a case</figcaption>
