@@ -1,7 +1,7 @@
 ---
 title: ResponderSG – A Lifesaving App From the Community, For the Seniors
 layout: layout-page-sidenav
-category: Sensors and IOT
+category: Digital Solutions to Address COVID-19
 description: ResponderSG is a mobile app that alerts members of the public to nearby calls for assistance from seniors living alone.
 ---
 
