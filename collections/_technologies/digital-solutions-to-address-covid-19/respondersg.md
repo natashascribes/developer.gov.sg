@@ -22,7 +22,7 @@ bios:
 
 ### Overview
 
-With fewer in-person social activities due to the COVID-19 pandemic, seniors living alone are spending more time at home. Thus, they are at higher risk of experiencing serious incidents such as falls. Believing that enlisting help from the members of public is the optimal and most practical way to handle urgent cases involving seniors, GovTech developed ResponderSG that aims to build a resilient community with accessible help for seniors and others at risk by enlisting help from volunteers in the community. 
+With fewer in-person social activities due to the COVID-19 pandemic, seniors living alone are spending more time at home. Thus, they are at higher risk of receiving delayed medical attention when experiencing serious incidents such as falls at home. Believing that enlisting help from the members of public is the optimal and most practical way to handle urgent cases involving seniors, GovTech developed ResponderSG that aims to build a resilient community with accessible help for seniors and others at risk by enlisting help from volunteers in the community. 
 
 ResponderSG was developed over a span of five months. In the early research phase, a kick-off workshop was conducted with stakeholders to ideate and come up with the app features. After estimating the effort required to develop the app the product team decided to adopt agile methodology to work together with the stakeholders, conducting meetings with them every two weeks. After further security scanning and user acceptance testing, the pilot took place over seven months – between October 2019 and May 2020 – involving 33 volunteers including a few GovTechies.
 
