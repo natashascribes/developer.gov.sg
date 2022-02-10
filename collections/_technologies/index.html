@@ -6,5 +6,6 @@ layout: layout-page
 <h2>Products and services</h2>
 <p>Offerings to help to facilitate the quick and secure building of Government digital services</p>
 
+
 {% assign sectionName = page.title | downcase %}
-{% include site-section-listing.html %}
+{% include site-section-listing.html sectionName=sectionName %}

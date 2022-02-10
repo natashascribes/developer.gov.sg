@@ -3,7 +3,7 @@
       {% assign name = category.name | downcase | replace:" ","-" %}
       <div class="{{contentHeaderStyle}}">
         <div><img src="{{img_src}}" alt=""/><span>{{img_label}}</span></div>
-        {% include card-header-info.html %}
+        {% include card-header-info.html disableItemCount=include.disableItemCount %}
       </div>
       <p>{{ category.description }}</p>
     </div>

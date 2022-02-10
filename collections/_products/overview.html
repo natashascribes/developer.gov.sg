@@ -1,7 +1,7 @@
 ---
 title: Products
 layout: layout-page-sidenav
-redirect_from: 
+redirect_from:
     - /products/
     - /products/collections
     - /products/categories
@@ -9,20 +9,17 @@ redirect_from:
 <!-- <img src="/assets/img/products/collections.svg" style="margin: 0px;"/> -->
 <p id="collections">Discover projects to leverage on to build the next digital service for Singapore</p>
 <!-- <a href="/products/all-products" class="sgds-link-icon" style="text-decoration: none;">
-    
+
     <i class="sgds-icon sgds-icon-grid" aria-hidden="true"></i>
     View all products
 </a> -->
 <h2>Explore products by collection</h2>
 <p>Offerings to help to facilitate the quick and secure building of Government digital services</p>
-{% assign sectionName = 'products-collections' %}
-{% assign is_collection = true %}
-{% include site-section-listing.html %}
+
+{% include site-section-listing.html sectionName='products-collections' is_collection=true %}
 
 <hr></hr>
 <h2 id="categories">Explore products by category</h2>
 <p>Offerings to help to facilitate the quick and secure building of Government digital services</p>
 
-{% assign sectionName = 'products-categories' %}
-{% assign is_collection = false %}
-{% include site-section-listing.html %}
+{% include site-section-listing.html sectionName='products-categories' is_collection=false %}

@@ -7,7 +7,7 @@
 {% assign url_str = 'collections' | append: '/' | append: category.name %}
 <header>
     <a href="{{ parent_category }}/{{category_slug}}"><h4>{{ category.name }}</h4></a>
-    {% if item_count > 0 and disabledItemCount == nil %}
+    {% if item_count > 0 and include.disableItemCount == nil %}
       <small>
           ({{ item_count }}&nbsp;
           {%- if item_count == 1 -%}
