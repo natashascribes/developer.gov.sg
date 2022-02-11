@@ -1,8 +1,8 @@
 <li>
     <a
-        class="second-level-nav-item {{ class }}"
-        href="{{ sidenav_item_url  }}"
+        class="second-level-nav-item {{ include.class }}"
+        href="{{ include.href  }}"
     >
-      {{ item }}
+      {{ include.label }}
     </a>
 </li>

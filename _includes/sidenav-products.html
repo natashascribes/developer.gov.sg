@@ -55,7 +55,7 @@
           {%- assign class = 'is-active' -%}
         {%- endif -%}
         {%- assign sidenav_item_url = '/' | append: currentCollection.label | append: '/' | append: category_slug | append: '/' | append: item_slug -%}
-        {% include sidenav-second-lvl-nav-item.html %}
+        {% include sidenav-second-lvl-nav-item.html label=item href=sidenav_item_url class=class %}
       {%- endfor -%}
     </ul>
   {%- else -%}
