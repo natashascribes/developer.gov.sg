@@ -7,20 +7,10 @@ layout: layout-page
   <div class="col is-2 is-hidden-touch sidenav">
     <aside class="sgds-menu">
       <ul class="sgds-menu-list">
-        {%- assign page_id_terms = page.id | split: "/" -%}
-        {% assign page_id_last = page_id_terms | last %}
-        {% if page_id_last == "index" %}
-          {%- assign page_id_terms = page_id_terms | pop -%}
-        {% endif %}
-        {% comment %} This checks that current page is a post under products. Instade of checking page.single-level-nav. {% endcomment %}
-        {%- if page_id_terms.size > 4 and collectionName == "products"-%}
+        {%- if page.single_level_nav -%}
           {%- include sidenav-single-level.html -%}
         {% else %}
-          {%- if collectionName == 'products'-%}
-            {%- include sidenav-products.html -%}
-          {% else %}
-            {%- include sidenav.html -%}
-          {% endif %}
+          {%- include sidenav.html -%}
         {% endif %}
       </ul>
     </aside>
