@@ -1,11 +1,11 @@
 <li class="second-level-nav">
     <a
-      href="{{href}}"
-      class="{{ class }} second-level-nav-header">
-      {{ category.name }}
+      href="{{ include.href }}"
+      class="{{ include.class }} second-level-nav-header">
+      {{ include.label }}
 
       {% if icon_class %}
-        <i class="sgds-icon {{icon_class}}" aria-hidden="true"></i>
+        <i class="sgds-icon {{ include.icon_class }}" aria-hidden="true"></i>
       {% endif %}
     </a>
 </li>
