@@ -6,6 +6,7 @@ sub_collection_render: true
 description: GatherSG is a lightweight case management and coordination system that is built for all domains for developers to optimise their operations.
 single_level_nav: true
 _data: single-level-nav
+collection_group: [Tech for Public Good]
 redirect_from:
     - /products/categories/productivity-tools/gathersg/
     - /products/categories/productivity-tools/gathersg.html

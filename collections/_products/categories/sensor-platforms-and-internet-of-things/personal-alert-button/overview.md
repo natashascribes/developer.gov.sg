@@ -6,6 +6,7 @@ description: PAB is an alert device that gives our seniors  greater peace of min
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
+collection_group: [Tech for Public Good]
 redirect_from:
     - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/
     - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button.html

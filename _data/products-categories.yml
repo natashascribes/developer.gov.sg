@@ -83,6 +83,22 @@
     - Overview
     - Government on Commercial Cloud
 
+- name: Platform
+  description: Digital platform for citzens, agencies and businesses
+  items:
+    - Overview
+    - GoBusiness
+    - LifeSG
+    - GovWallet
+    - Virtual Intelligent Chat Assistant
+
+- name: Productivity Tools
+  description: Tools to enhance your experience at work and help you achieve more
+  items:
+    - Overview
+    - Asset Management System
+    - GatherSG
+    
 - name: Sensor Platforms and Internet of Things
   description: Build on sensors and IOT technologies and leverage their data
   items:
@@ -103,19 +119,3 @@
     - SmartGym
     - SNSP
     - SPOTON
-
-- name: Platform
-  description: Digital platform for citzens, agencies and businesses
-  items:
-    - Overview
-    - GoBusiness
-    - LifeSG
-    - GovWallet
-    - Virtual Intelligent Chat Assistant
-
-- name: Productivity Tools
-  description: Tools to enhance your experience at work and help you achieve more
-  items:
-    - Overview
-    - Asset Management System
-    - GatherSG
