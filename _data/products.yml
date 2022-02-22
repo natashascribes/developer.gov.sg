@@ -11,6 +11,7 @@
   path: /products/overview/#collections
   description: Digital Solutions for a 21st Century Pandemic
   items:
+    - Open-source
     - Singapore Government Tech Stack
 
 - name: Categories
