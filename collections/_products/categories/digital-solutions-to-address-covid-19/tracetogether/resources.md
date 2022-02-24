@@ -15,11 +15,11 @@ redirect_from:
 
 ### Whitepapers
 
-- [BlueTrace White Paper](https://bluetrace.io/static/bluetrace_whitepaper-938063656596c104632def383eb33b3c.pdf){:target="_blank"}
+- [BlueTrace Whitepaper](https://bluetrace.io/static/bluetrace_whitepaper-938063656596c104632def383eb33b3c.pdf){:target="_blank"}
 
 ### Open source repository
 
-- [GitHub](https://github.com/OpenTrace-community){:target="_blank"}
+- [OpenTrace Community](https://github.com/OpenTrace-community){:target="_blank"}
 
 ### Additional resources
 

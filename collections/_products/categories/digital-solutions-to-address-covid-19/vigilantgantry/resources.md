@@ -11,4 +11,4 @@ redirect_from:
 
 ### Open source repository
 
-- [GitHub](https://github.com/dsaidgovsg/vigilantgantry){:target="_blank"}
+- [VigitantGantry](https://github.com/dsaidgovsg/vigilantgantry){:target="_blank"}

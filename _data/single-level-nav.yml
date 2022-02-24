@@ -46,6 +46,7 @@
 - name: APEX
   items:
     - Overview
+    - Resources
 
 - name: BookingSG
   items:
@@ -182,6 +183,7 @@
 - name: VigilantGantry
   items:
     - Overview
+    - Resources
 
 # Infrastructure and Hosting
 - name: Government on Commercial Cloud
