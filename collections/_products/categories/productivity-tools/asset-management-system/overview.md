@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/productivity-tools/asset-management-system/
-    - /products/categories/productivity-tools/asset-management-system.html
+  - /products/categories/productivity-tools/asset-management-system/
+  - /products/categories/productivity-tools/asset-management-system.html
+  - /technologies/productivity-tools/asset-management-system/
+  - /technologies/productivity-tools/asset-management-system.html
 description: AMS is a single system for management of all asset and contract types in the Government.
 ---
 

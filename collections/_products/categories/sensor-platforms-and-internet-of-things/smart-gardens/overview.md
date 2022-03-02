@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/smart-gardens/
-    - /products/categories/sensor-platforms-and-internet-of-things/smart-gardens.html
+  - /products/categories/sensor-platforms-and-internet-of-things/smart-gardens/
+  - /products/categories/sensor-platforms-and-internet-of-things/smart-gardens.html
+  - /technologies/sensor-platforms-and-internet-of-things/smart-gardens/
+  - /technologies/sensor-platforms-and-internet-of-things/smart-gardens.html
 description: Smart Gardens at Gardens by the Bay deploys digital technologies to better manage park operations, improve visitor safety and enhance park experience.
 bios:
   - name: Tan Chin Hiong, System Architect

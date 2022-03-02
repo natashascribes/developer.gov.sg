@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway/
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway.html
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway/
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway.html
+  - /technologies/sensor-platforms-and-internet-of-things/decada-edge-gateway/
+  - /technologies/sensor-platforms-and-internet-of-things/decada-edge-gateway.html
 description: DECADA Edge Gateway is a specially developed edge gateway that improves the performance of DECADA.
 bios:
   - name: Toh Kian Hui, Technical Lead

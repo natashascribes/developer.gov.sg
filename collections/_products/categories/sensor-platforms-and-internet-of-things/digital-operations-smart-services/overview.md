@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/digital-operations-smart-services/
-    - /products/categories/sensor-platforms-and-internet-of-things/digital-operations-smart-services.html
+  - /products/categories/sensor-platforms-and-internet-of-things/digital-operations-smart-services/
+  - /products/categories/sensor-platforms-and-internet-of-things/digital-operations-smart-services.html
+  - /technologies/sensor-platforms-and-internet-of-things/digital-operations-smart-services/
+  - /technologies/sensor-platforms-and-internet-of-things/digital-operations-smart-services.html
 description: DOSS is an operations management platform that can integrate into different systems to enable next-generation digital operations.
 ---
 

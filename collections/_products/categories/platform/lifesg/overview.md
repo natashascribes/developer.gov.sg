@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/platform/lifesg/
-    - /products/categories/platform/lifesg.html
+  - /products/categories/platform/lifesg/
+  - /products/categories/platform/lifesg.html
+  - /technologies/platform/lifesg/
+  - /technologies/platform/lifesg.html
 description: LifeSG, an app that offers users simpler access to digital government service through the consolidation of personalised content.
 ---
 
@@ -31,7 +33,7 @@ To date, the LifeSG app has been downloaded more than 290,000 times. It has faci
   <figcaption>Fig 1: Overview of LifeSG’s dashboard which allows citizens to access digital government services.</figcaption>
 </figure>
 
-### Why Should LifeSG be Adopted? 
+### Why Should LifeSG be Adopted?
 
 The key benefits of LifeSG are as shown below:
 

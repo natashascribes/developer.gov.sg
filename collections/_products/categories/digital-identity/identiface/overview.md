@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/identiface/
     - /products/categories/digital-identity/identiface.html
+    - /technologies/digital-identity/identiface/
+    - /technologies/digital-identity/identiface.html
 description: >
   Identiface is a secure authentication method where users verify their identities through facial scanning.
 ---

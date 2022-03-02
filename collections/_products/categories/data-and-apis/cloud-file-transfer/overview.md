@@ -3,10 +3,12 @@ title: Cloud File Transfer (CFT) - Powering secure and compliant cross-zone file
 layout: layout-page-sidenav
 category: Data and APIs
 _data: single-level-nav
-redirect_from: 
+redirect_from:
     - /singapore-government-tech-stack/communications/cloud-file-transfer
     - /products/categories/data-and-apis/cloud-file-transfer/
     - /products/categories/data-and-apis/cloud-file-transfer.html
+    - /technologies/data-and-apis/cloud-file-transfer/
+    - /technologies/data-and-apis/cloud-file-transfer.html
 sub_collection_render: true
 single_level_nav: true
 collection_group: [Singapore Government Tech Stack]
@@ -45,7 +47,7 @@ Start transferring files in minutes without the operational cost and overheads o
 
 ##### Built-in scalability with no lock-in on your side
 
-Eliminates the need to manage your own infrastructure or worry about over or under provisioning. CFT runs on planet-scale infrastructure. Whether it is zero to N transfers, or seasonal spikes, CFT scales automatically for you.  
+Eliminates the need to manage your own infrastructure or worry about over or under provisioning. CFT runs on planet-scale infrastructure. Whether it is zero to N transfers, or seasonal spikes, CFT scales automatically for you.
 
 ##### Application Infrastructure Architecture Standard Compliant
 

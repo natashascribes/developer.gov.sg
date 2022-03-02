@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/sgfindex/
     - /products/categories/digital-identity/sgfindex.html
+    - /technologies/digital-identity/sgfindex/
+    - /technologies/digital-identity/sgfindex.html
 description: >
   A public digital infrastructure driven by public-private sector collaboration, consent-based data-driven innovation and national digital identity. 
 bios:

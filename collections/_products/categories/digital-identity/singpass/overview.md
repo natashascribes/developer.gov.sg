@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/singpass/
     - /products/categories/digital-identity/singpass.html
+    - /technologies/digital-identity/singpass/
+    - /technologies/digital-identity/singpass.html
 description: >
   Singpass is the trusted national digital identity platform for users to access and perform transactions with public and private sectors conveniently and securely.
 ---

@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/verify/
     - /products/categories/digital-identity/verify.html
+    - /technologies/digital-identity/verify/
+    - /technologies/digital-identity/verify.html
 description: >
   Verify enables users to securely perform in-person identity verification and data sharing, through scanning of QR codes with their Singpass app.
 ---

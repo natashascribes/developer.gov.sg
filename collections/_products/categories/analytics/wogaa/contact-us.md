@@ -5,6 +5,7 @@ layout: layout-page-sidenav
 _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/wogaa/contact-us.html
+    - /technologies/analytics/wogaa/contact-us.html
 single_level_nav: true
 ---
 
@@ -25,7 +26,7 @@ For enquiries on WOGAA, email <info@tech.gov.sg>.
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
 </div>
 
 - William Afendy, Technical Lead

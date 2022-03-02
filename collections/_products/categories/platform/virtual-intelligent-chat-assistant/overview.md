@@ -6,9 +6,12 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /communities/covid-19-volunteering-opportunities/vica.html
-    - /products/categories/platform/virtual-intelligent-chat-assistant/
-    - /products/categories/platform/virtual-intelligent-chat-assistant.html
+  - /communities/covid-19-volunteering-opportunities/vica.html
+  - /products/categories/platform/virtual-intelligent-chat-assistant/
+  - /products/categories/platform/virtual-intelligent-chat-assistant.html
+  - /technologies/covid-19-volunteering-opportunities/vica.html
+  - /technologies/platform/virtual-intelligent-chat-assistant/
+  - /technologies/platform/virtual-intelligent-chat-assistant.html
 description: VICA is a citizen assistant platform for Government agencies to build smart chatbots that are beneficial and useful to citizens.
 ---
 
@@ -39,9 +42,10 @@ These benefits will ultimately translate to a better chatbot, and thus a better 
 ### How Do You Use VICA?
 
 Various live versions of VICA chatbots are accessible via the options below:
--	To enable Gov.sg on WhatsApp, please fill in this [form](https://go.gov.sg/whatsapp){:target="\_blank"}.
--	To access COVID-19 Info Bot, click [here](https://www.gov.sg/infobot){:target="\_blank"} (thereafter, click on the icon on the bottom right to engage the chatbot).
--	To access COVID-19 Chat for Biz, click [here](https://www.mti.gov.sg/Chatbot/chat){:target="\_blank"}.<br>
+
+- To enable Gov.sg on WhatsApp, please fill in this [form](https://go.gov.sg/whatsapp){:target="\_blank"}.
+- To access COVID-19 Info Bot, click [here](https://www.gov.sg/infobot){:target="\_blank"} (thereafter, click on the icon on the bottom right to engage the chatbot).
+- To access COVID-19 Chat for Biz, click [here](https://www.mti.gov.sg/Chatbot/chat){:target="\_blank"}.<br>
 
 Steps for agencies to onboard VICA:
 
@@ -66,7 +70,7 @@ The volatile and rapidly evolving situation during the COVID-19 pandemic meant t
 
 The product team is looking to increase automation processes so that fewer human interventions are required in reviewing the chatbot’s responses and in monitoring whether its responses are relevant and useful to users.
 
- The team is also working on developing ways to better understand user behaviour. Currently, feedback is received via star ratings and thumbs up/down buttons that are explicitly provided by users of the chatbot. In the future, the team is also looking to incorporate implicit feedback via the types of queries posed and their associated contexts. 
+The team is also working on developing ways to better understand user behaviour. Currently, feedback is received via star ratings and thumbs up/down buttons that are explicitly provided by users of the chatbot. In the future, the team is also looking to incorporate implicit feedback via the types of queries posed and their associated contexts.
 
 ### Contact Information
 

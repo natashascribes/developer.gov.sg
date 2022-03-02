@@ -6,11 +6,13 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/content-management/isomer/
     - /products/categories/content-management/isomer.html
+    - /technologies/content-management/isomer/
+    - /technologies/content-management/isomer.html
 sub_collection_render: true
 single_level_nav: true
 description: >
-  Isomer is an informational website generator that provides templates 
-  for websites with hosting and is compliant to applicable clauses in 
+  Isomer is an informational website generator that provides templates
+  for websites with hosting and is compliant to applicable clauses in
   Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC).
 ---
 

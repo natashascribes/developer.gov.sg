@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/platform/govwallet/
-    - /products/categories/platform/govwallet.html
+  - /products/categories/platform/govwallet/
+  - /products/categories/platform/govwallet.html
+  - /technologies/platform/govwallet/
+  - /technologies/platform/govwallet.html
 description: GovWallet is a payment facilitator between agencies and beneficiaries.
 bios:
   - name: Patricia Zhao, Product Manager
@@ -48,7 +50,7 @@ bios:
   - name: Immanuella (Imma) Lim, Software Engineer
     img_src: supplyally-immanuella.png
     desc: |
-     Imma likes to build stuff and learn how to create better solutions. She has a knack for teaching and is often seen sharing her knowledge with the team.
+      Imma likes to build stuff and learn how to create better solutions. She has a knack for teaching and is often seen sharing her knowledge with the team.
 
   - name: Koh Kai Hong, DevOps Engineer
     img_src: supplyally-kaihong.png
@@ -85,12 +87,11 @@ bios:
 
 ### Overview
 
-GovWallet is a module integration that was developed by GovTech’s Government Digital Services (GDS) team to provide an alternative means to distribute government pay-outs. Currently, agencies may develop individual systems to conduct their respective distribution exercises. Beneficiaries may then find themselves going through multiple touchpoints, which can be tedious. 
+GovWallet is a module integration that was developed by GovTech’s Government Digital Services (GDS) team to provide an alternative means to distribute government pay-outs. Currently, agencies may develop individual systems to conduct their respective distribution exercises. Beneficiaries may then find themselves going through multiple touchpoints, which can be tedious.
 
-To prevent isolated systems, GovWallet was developed as an internal pilot project at GovTech which enabled GovTechies to credit staff benefits into GovWallet and transfer them to their PayNow accounts or use them at merchants that accept PayNow e-Payment. 
+To prevent isolated systems, GovWallet was developed as an internal pilot project at GovTech which enabled GovTechies to credit staff benefits into GovWallet and transfer them to their PayNow accounts or use them at merchants that accept PayNow e-Payment.
 
 Since then, GovWallet has partnered local banks and agencies to become a payment facilitator between agencies distributing pay-outs and beneficiaries who are receiving them.
-
 
 ### What is GovWallet?
 
@@ -100,7 +101,7 @@ By leveraging local banks’ PayNow e-Payment ecosystem, GovWallet is able to pe
 
 ### Why Should GovWallet be Adopted?
 
-GovWallet serves to improve the user experience as the single wallet to view and use the available pay-outs from various agencies. It mitigates confusion on how much pay-out is received by beneficiaries, while enhancing security without the need to click on potentially suspicious SMSes. 
+GovWallet serves to improve the user experience as the single wallet to view and use the available pay-outs from various agencies. It mitigates confusion on how much pay-out is received by beneficiaries, while enhancing security without the need to click on potentially suspicious SMSes.
 
 Furthermore, the 164,000 merchants already onboarded with PayNow, such as e-commerce platforms like Shopee and Lazada, and charity organisations like Giving.sg, can enjoy lower barrier of entry if they wish to participate in government disbursement programmes.
 

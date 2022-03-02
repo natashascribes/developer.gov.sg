@@ -6,6 +6,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/data-and-apis/bookingsg/
     - /products/categories/data-and-apis/bookingsg.html
+    - /technologies/data-and-apis/bookingsg/
+    - /technologies/data-and-apis/bookingsg.html
 sub_collection_render: true
 single_level_nav: true
 description: BookingSG is a Calendaring, Availability, Rostering and Booking (CARB) management tool for agencies that offer services which require pre-booking
@@ -21,7 +23,7 @@ There are three groups of BookingSG users: service administrators, service provi
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig1.png" width="80%" height="80%" 
+    src="/assets/img/bookingsg-fig1.png" width="80%" height="80%"
     alt="Fig 1: BookingSG’s services for service administrators, service providers and citizens (left to right)"
   />
   <figcaption>Fig 1: BookingSG’s services for service administrators, service providers and citizens (left to right)</figcaption>
@@ -33,7 +35,7 @@ Fig 2 illustrates the benefits\* of BookingSG for Government agencies. This incl
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig2.png" width="100%" height="100%" 
+    src="/assets/img/bookingsg-fig2.png" width="100%" height="100%"
     alt="Fig 2: Benefits of BookingSG for Whole of Government (WOG)"
   />
   <figcaption>Fig 2: Benefits of BookingSG for Whole of Government (WOG)</figcaption>
@@ -56,7 +58,7 @@ To start using BookingSG, fill out this [form](https://form.gov.sg/#!/605a9d2e7b
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/bookingsg-fig3.png" width="100%" height="100%" 
+    src="/assets/img/bookingsg-fig3.png" width="100%" height="100%"
     alt="Fig 3: BookingSG’s dashboard for calendar bookings"
   />
   <figcaption>Fig 3: BookingSG’s dashboard for calendar bookings</figcaption>

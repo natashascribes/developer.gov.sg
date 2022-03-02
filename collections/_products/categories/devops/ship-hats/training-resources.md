@@ -6,6 +6,7 @@ single_level_nav: true
 _data: single-level-nav
 redirect_from:
     - /products/categories/devops/ship-hats/training-resources.html
+    - /technologies/devops/ship-hats/training-resources.html
 ---
 ### Overview 
 Check out the technical documentation, how-to guides and videos to understand SHIP-HATS. We will be adding more content regularly. Check out [What's New](./what-s-new) for the latest updates. 

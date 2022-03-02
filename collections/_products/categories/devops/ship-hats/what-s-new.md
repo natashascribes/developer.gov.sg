@@ -6,6 +6,7 @@ single_level_nav: true
 _data: single-level-nav
 redirect_from:
     - /products/categories/devops/ship-hats/what-s-new.html
+    - /technologies/devops/ship-hats/what-s-new.html
 ---
 
 ### Latest Update

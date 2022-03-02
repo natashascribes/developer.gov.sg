@@ -6,6 +6,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/content-management/content-website-platform/
     - /products/categories/content-management/content-website-platform.html
+    - /technologies/content-management/content-website-platform/
+    - /technologies/content-management/content-website-platform.html
 sub_collection_render: true
 single_level_nav: true
 description: Content Website Platform provides a suite of standardised software for hosting content-based websites.

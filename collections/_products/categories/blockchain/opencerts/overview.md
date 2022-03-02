@@ -6,6 +6,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/blockchain/opencerts/
     - /products/categories/blockchain/opencerts.html
+    - /technologies/blockchain/opencerts/
+    - /technologies/blockchain/opencerts.html
 sub_collection_render: true
 single_level_nav: true
 description: OpenCerts is a platform using blockchain to provide an easy and reliable way to issue and validate tamper-proof certificates.
@@ -33,7 +35,7 @@ OpenCerts is the umbrella trademark under which GovTech has released a few key c
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/products/Fig 1 Demo certificate that has been verified by OpenCerts.png"  
+    src="/assets/img/products/Fig 1 Demo certificate that has been verified by OpenCerts.png"
     alt="Fig 1 Demo certificate that has been verified by OpenCerts"
   />
   <figcaption>Fig 1 Demo certificate that has been verified by OpenCerts</figcaption>
