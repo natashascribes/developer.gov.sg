@@ -7,6 +7,8 @@ redirect_from:
     - /singapore-government-tech-stack/communications/apex
     - /products/categories/data-and-apis/apex/
     - /products/categories/data-and-apis/apex.html
+    - /technologies/data-and-apis/apex/
+    - /technologies/data-and-apis/apex.html
 sub_collection_render: true
 single_level_nav: true
 collection_group: [Singapore Government Tech Stack, Open-source]
@@ -25,7 +27,7 @@ APEX can be thought of as a centralised data sharing platform within the governm
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/apex_api_catalogue.png"  
+    src="/assets/img/apex_api_catalogue.png"
     alt="Fig 1: APEX’s API Library allows inter-agency sharing of use case."
   />
   <figcaption>Fig 1: APEX’s API Library allows inter-agency sharing of use case.</figcaption>
@@ -35,10 +37,10 @@ In addition to secure data sharing, APEX’s API catalogue provides government a
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/apex_logging_1.png"  
+    src="/assets/img/apex_logging_1.png"
   />
   <img
-    src="/assets/img/apex_logging_2.png"  
+    src="/assets/img/apex_logging_2.png"
     alt="Fig 2 & 3: APEX’s central logging system enables agencies to view the logs of all API calls."
   />
   <figcaption>Fig 2 & 3: APEX’s central logging system enables agencies to view the logs of all API calls.</figcaption>
@@ -48,7 +50,7 @@ The central logging system of APEX also provides an overview of all API call log
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/apex_admin.png"  
+    src="/assets/img/apex_admin.png"
     alt="Fig 4: APEX’s Central Administration Dashboard"
   />
   <figcaption>Fig 4: APEX’s Central Administration Dashboard</figcaption>

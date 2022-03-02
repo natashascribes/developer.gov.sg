@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-cloud/
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-cloud.html
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-cloud/
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-cloud.html
+  - /technologies/sensor-platforms-and-internet-of-things/decada-cloud/
+  - /technologies/sensor-platforms-and-internet-of-things/decada-cloud.html
 description: DECADA Cloud is the Singapore Government’s secure IoT platform for device management and sensor data analysis.
 bios:
   - name: Toh Kian Hui, Technical Lead

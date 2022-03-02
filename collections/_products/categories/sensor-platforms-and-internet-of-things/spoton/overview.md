@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/spoton/
-    - /products/categories/sensor-platforms-and-internet-of-things/spoton.html
+  - /products/categories/sensor-platforms-and-internet-of-things/spoton/
+  - /products/categories/sensor-platforms-and-internet-of-things/spoton.html
+  - /technologies/sensor-platforms-and-internet-of-things/spoton/
+  - /technologies/sensor-platforms-and-internet-of-things/spoton.html
 description: SPOTON is a smart thermal scanner that enables faster crowd temperature screening. Find out more.
 ---
 

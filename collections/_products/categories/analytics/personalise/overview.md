@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/personalise/
     - /products/categories/analytics/personalise.html
+    - /technologies/analytics/personalise/
+    - /technologies/analytics/personalise.html
 sub_collection_render: true
 single_level_nav: true
 description: Personalise consists of email and web personalisation tools that help agencies better analyse user behaviours and provide tailored experiences to individuals.

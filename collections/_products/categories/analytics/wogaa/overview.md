@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/wogaa/
     - /products/categories/analytics/wogaa.html
+    - /technologies/analytics/wogaa/
+    - /technolgies/analytics/wogaa.html
 sub_collection_render: true
 single_level_nav: true
 description: >
@@ -203,7 +205,7 @@ For enquiries on WOGAA, email <info@tech.gov.sg>.
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
 </div>
 
 - William Afendy, Technical Lead

@@ -4,7 +4,7 @@ mobile_title: WOGAA
 layout: layout-page-sidenav
 _data: single-level-nav
 redirect_from:
-    - /products/categories/analytics/wogaa/updates.html
+    - /technologies/analytics/wogaa/updates.html
 ---
 
 ### What's Next?

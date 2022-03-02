@@ -6,11 +6,13 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/content-management/opendoc/
     - /products/categories/content-management/opendoc.html
+    - /technologies/content-management/opendoc/
+    - /technologies/content-management/opendoc.html
 sub_collection_render: true
 single_level_nav: true
 description: >
   OpenDoc is an online document viewer.
-  It provides templates for websites, hosting and is compliant 
+  It provides templates for websites, hosting and is compliant
   to applicable clauses in Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC).
 ---
 

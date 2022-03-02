@@ -8,6 +8,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem/
     - /products/categories/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem.html
+    - /technologies/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem/
+    - /technologies/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem.html
 description: Find out how the Government Assisted Living Ecosystem (GALE) supports seniors, rental tenants and lower income families amidst the COVID-19 pandemic.
 ---
 

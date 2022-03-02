@@ -6,6 +6,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/data-and-apis/data-gov-sg/
     - /products/categories/data-and-apis/data-gov-sg.html
+    - /technologies/data-and-apis/data-gov-sg/
+    - /technologies/data-and-apis/data-gov-sg.html
 sub_collection_render: true
 single_level_nav: true
 description: data.gov.sg is a one-stop portal to publicly-available datasets from 70 public agencies.

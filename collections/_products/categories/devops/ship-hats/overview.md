@@ -9,6 +9,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/devops/ship-hats/
     - /products/categories/devops/ship-hats.html
+    - /technologies/devops/ship-hats/
+    - /technologies/devops/ship-hats.html
 ---
 
 ### Overview

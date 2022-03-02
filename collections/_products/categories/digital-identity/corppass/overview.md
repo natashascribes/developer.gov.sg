@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/corppass/
     - /products/categories/digital-identity/corppass.html
+    - /technologies/digital-identity/corppass/
+    - /technologies/digital-identity/corppass.html
 description: >
   Corppass is a corporate digital identity for businesses and other entities to conduct online transactions with Government agencies.
 ---

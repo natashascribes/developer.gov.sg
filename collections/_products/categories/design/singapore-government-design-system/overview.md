@@ -4,6 +4,8 @@ layout: layout-page-sidenav
 category: Design
 _data: single-level-nav
 redirect_from:
+    - /technologies/design/singapore-government-design-system/
+    - /technologies/design/singapore-government-design-system.html
     - /products/categories/design/singapore-government-design-system/
     - /products/categories/design/singapore-government-design-system.html
 sub_collection_render: true

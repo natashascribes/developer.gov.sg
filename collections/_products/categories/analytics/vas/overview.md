@@ -8,8 +8,10 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/vas/
     - /products/categories/analytics/vas.html
+    - /technologies/analytics/vas
+    - /technologies/analytics/vas.html
 description: >
-  VAS is a central platform that enable Government agencies to develop in-house video analytics solutions. 
+  VAS is a central platform that enable Government agencies to develop in-house video analytics solutions.
 bios:
   - name: Christopher Sia, Project Director
     img_src: vas-christopher.png
@@ -20,18 +22,18 @@ bios:
     img_src: vas-henry.png
     desc: |
       Henry is a lead product manager in the VA team at GovTech, where he leads product development of the VAS platform to support the public sector in tapping into the potential of VA to better serve public needs. He has over 20 years of diverse industry experience across product management and technical development on global products across multinational organisations. Henry graduated with a degree in Computer Science from the National University of Singapore and is passionate about building products that makes technology accessible for improving everyday lives.
-      
+
   - name: Lee Ning Sung, Lead Product Manager
     img_src: vas-ning-sung.png
     desc: |
-      Ning Sung is one of the lead product managers in the VA team at GovTech, where she supports Singapore's public sector in their adoption of VA to improve productivity. She has over 12 years of diverse experience in the Singapore public sector, ranging from fiscal strategy and organisation transformations, strategic planning and foreign diplomacy to product and artificial intelligence. She believes in driving productivity for the greater good. Ning Sung graduated with a BSc in Electrical and Computer Engineering and holds a double major in Human Computer Interaction from Carnegie Mellon University in Pittsburgh, USA, and she obtained her MEng in Electronics Engineering from the University of Tokyo, Japan.     
+      Ning Sung is one of the lead product managers in the VA team at GovTech, where she supports Singapore's public sector in their adoption of VA to improve productivity. She has over 12 years of diverse experience in the Singapore public sector, ranging from fiscal strategy and organisation transformations, strategic planning and foreign diplomacy to product and artificial intelligence. She believes in driving productivity for the greater good. Ning Sung graduated with a BSc in Electrical and Computer Engineering and holds a double major in Human Computer Interaction from Carnegie Mellon University in Pittsburgh, USA, and she obtained her MEng in Electronics Engineering from the University of Tokyo, Japan.
 
   - name: Chua Teck Wee, Lead AI Engineer
     img_src: vas-teck-wee.png
     desc: |
       Teck Wee is a Lead AI Engineer in the VA team under the Data Science and Artificial Intelligence Division (DSAID) at GovTech. He leads the development of custom VA solutions for agencies. Teck Wee graduated with a PhD in Electrical and Computer Engineering from the National University of Singapore. He enjoys building AI solutions for public good.
 
-  - name: Ng Yong Kiat, Agency Engagement Lead 
+  - name: Ng Yong Kiat, Agency Engagement Lead
     img_src: vas-yong-kiat.png
     desc: |
       Yong Kiat is a team lead for engagements activities in on-boarding agencies onto WoG VA products and services. He graduated from the National University of Singapore with a MSc in Management of Technology and a Bachelor of Computing in Computer Engineering. He has over 17 years of experience in systems engineering, solutions architecting, and pre-sales. Yong Kiat is passionate about harnessing cutting edge technologies to bring value to various stakeholders.
@@ -76,7 +78,7 @@ As a central platform, VAS aims to:
 - Train VA model based on a selection of common deep learning model options to detect objects of interest.
 - Curate and manage custom datasets for the training process.
 - Review and perform annotation for both video and images.
-- Initial and monitor model training runs and be notified when the training has completed. 
+- Initial and monitor model training runs and be notified when the training has completed.
 - Test VA model by performing predictions using custom trained model versions.
 - Export prediction results to CSV/JSON formats.
 
@@ -85,7 +87,7 @@ As a central platform, VAS aims to:
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/vas-fig1.png" width="100%" height="100%" 
+    src="/assets/img/vas-fig1.png" width="100%" height="100%"
     alt="Fig 1: VAS components"
   />
   <figcaption>Fig 1: VAS components</figcaption>
@@ -114,13 +116,13 @@ As a central platform, VAS aims to:
 
 The benefits provided by VAS include:
 
--	**Quicker enablement of VA tasks**: Agencies with VA use-cases can benefit from the get-go with the accessible and intuitive system. Users appreciate the ability to quickly generate insights and analysis from videos collected during trials, POCs, and pre-analysis work. 
--	**Reduction in manual analysis**: With VAS’ automated analysis processes, agencies can unlock critical time and cost savings.  For example, to help fish hatcheries optimise the usage of artemia (a type of microorganism used as fish feed), officers from the Singapore Food Agency (SFA) had previously reliedon manual counting of artemia, which can number around 1,000 per sample. With VAS, SFA officers now spend considerably less time conducting laborious manual counting. 
+-	**Quicker enablement of VA tasks**: Agencies with VA use-cases can benefit from the get-go with the accessible and intuitive system. Users appreciate the ability to quickly generate insights and analysis from videos collected during trials, POCs, and pre-analysis work.
+-	**Reduction in manual analysis**: With VAS’ automated analysis processes, agencies can unlock critical time and cost savings.  For example, to help fish hatcheries optimise the usage of artemia (a type of microorganism used as fish feed), officers from the Singapore Food Agency (SFA) had previously reliedon manual counting of artemia, which can number around 1,000 per sample. With VAS, SFA officers now spend considerably less time conducting laborious manual counting.
 -	**Designed for agencies, by agencies**: Various Design Thinking workshops were held with agencies to seek their inputs. The system is also designed to respond quickly to changes. In sum, VAS is a product that is centered around what agencies need.
 
 ### How Do You Use VAS?
 
-Onboarding of the VAS is by invitation only. Interested agencies can fill up this [form](https://go.gov.sg/vasenquiry){:target="\_blank"}. 
+Onboarding of the VAS is by invitation only. Interested agencies can fill up this [form](https://go.gov.sg/vasenquiry){:target="\_blank"}.
 
 ### Success Stories
 
@@ -130,7 +132,7 @@ In response, NParks and GovTech collaborated to develop [Safe Distance @ Parks](
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/vas-fig2.png" width="100%" height="100%" 
+    src="/assets/img/vas-fig2.png" width="100%" height="100%"
     alt="Fig 2: Safe Distance @ Parks"
   />
   <figcaption>Fig 2: Safe Distance @ Parks</figcaption>
@@ -150,7 +152,7 @@ Work is in progress for VAS to support the following features in future releases
 
 ### Contact Information
 
-For enquiries, fill in this [form](https://go.gov.sg/vasenquiry){:target="\_blank"}. 
+For enquiries, fill in this [form](https://go.gov.sg/vasenquiry){:target="\_blank"}.
 
 ### Meet the Team!
 
@@ -165,7 +167,7 @@ For enquiries, fill in this [form](https://go.gov.sg/vasenquiry){:target="\_blan
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
 </div>
 
 Other VAS team members:

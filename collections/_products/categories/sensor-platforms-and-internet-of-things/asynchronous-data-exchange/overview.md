@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/
-    - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange.html
+  - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/
+  - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange.html
+  - /technologies/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/
+  - /technologies/sensor-platforms-and-internet-of-things/asynchronous-data-exchange.html
 description: >
   ADEX is a centralised data exchange platform for the whole of government (WOG) that allows for seamless data sharing and event streaming.
 ---

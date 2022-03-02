@@ -5,6 +5,7 @@ layout: layout-page-sidenav
 _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/wogaa/getting-started.html
+    - /technologies/analytics/wogaa/getting-started.html
 single_level_nav: true
 ---
 

@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/login/
     - /products/categories/digital-identity/login.html
+    - /technologies/digital-identity/login/
+    - /technologies/digital-identity/login.html
 description: >
   Login is a password-less login method for users to access public and private sector digital services using the Singpass app.
 ---

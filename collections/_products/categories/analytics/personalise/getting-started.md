@@ -5,6 +5,7 @@ layout: layout-page-sidenav
 _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/personalise/getting-started.html
+    - /technologies/analytics/personalise/getting-started.html
 single_level_nav: true
 ---
 

@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/smartgym/
-    - /products/categories/sensor-platforms-and-internet-of-things/smartgym.html
+  - /products/categories/sensor-platforms-and-internet-of-things/smartgym/
+  - /products/categories/sensor-platforms-and-internet-of-things/smartgym.html
+  - /technologies/sensor-platforms-and-internet-of-things/smartgym/
+  - /technologies/sensor-platforms-and-internet-of-things/smartgym.html
 description: SmartGym is a holistic fitness platform that uses data to provide users with fitness insights to improve their health journey.
 bios:
   - name: Tan Chin Hiong, Team Lead, System Architecture

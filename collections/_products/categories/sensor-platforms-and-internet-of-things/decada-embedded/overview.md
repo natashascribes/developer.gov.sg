@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-embedded/
-    - /products/categories/sensor-platforms-and-internet-of-things/decada-embedded.html
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-embedded/
+  - /products/categories/sensor-platforms-and-internet-of-things/decada-embedded.html
+  - /technologies/sensor-platforms-and-internet-of-things/decada-embedded/
+  - /technologies/sensor-platforms-and-internet-of-things/decada-embedded.html
 description: DECADA Embedded (formerly known as MANUCA) are a family of microcontroller-class devices that can communicate directly to DECADA Cloud.
 bios:
   - name: Christopher Tong, Product Manager

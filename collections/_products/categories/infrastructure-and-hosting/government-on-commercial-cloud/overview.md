@@ -6,9 +6,12 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /singapore-government-tech-stack/government-on-commercial-cloud
-    - /products/categories/infrastructure-and-hosting/government-on-commercial-cloud/
-    - /products/categories/infrastructure-and-hosting/government-on-commercial-cloud.html
+  - /singapore-government-tech-stack/government-on-commercial-cloud
+  - /products/categories/infrastructure-and-hosting/government-on-commercial-cloud/
+  - /products/categories/infrastructure-and-hosting/government-on-commercial-cloud.html
+  - /technologies/singapore-government-tech-stack/government-on-commercial-cloud
+  - /technologies/infrastructure-and-hosting/government-on-commercial-cloud/
+  - /technologies/infrastructure-and-hosting/government-on-commercial-cloud.html
 description: >
   GCC is a “wrapper” platform that allows government agencies to adopt commercial cloud solutions to provide secure, seamless and efficient services.
 ---
@@ -17,13 +20,13 @@ description: >
 
 In late 2018, the Singapore Government announced a five-year plan to migrate most of its information technology (IT) systems from on-premises infrastructure to the commercial Cloud platform to accelerate service delivery and improve services for citizens and businesses. This led to the establishment of the GCC in 2019 to homogenise the onboarding experience and administrative tasks of government agencies on the Cloud, including workload administration, account and billing management, secure access, and compliance to governance policies. In 2020, a whole-of-government (WOG) target to move 70% of eligible government systems onto the Cloud by 2023 was represented in the Digital Government Blueprint. To date, the government has over 600 systems on the Cloud.
 
-Currently, key government services such as [MyCareersFuture](https://www.mycareersfuture.gov.sg/){:target="_blank"}, [GoBusiness](https://www.gobusiness.gov.sg/){:target="_blank"}, [GoBusiness Licensing Portal](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}, [SafeEntry](/products/categories/digital-solutions-to-address-covid-19/safeentry){:target="_blank"}, [SupplyAlly](/products/categories/digital-solutions-to-address-covid-19/supplyally){:target="_blank"}, [Whole of Government Application Analytics (WOGAA)](/products/categories/analytics/wogaa/getting-started){:target="_blank"}, and [SHIP-HATS](/singapore-government-tech-stack/toolchain/overview.html){:target="_blank"} utilise the GCC.
+Currently, key government services such as [MyCareersFuture](https://www.mycareersfuture.gov.sg/){:target="\_blank"}, [GoBusiness](https://www.gobusiness.gov.sg/){:target="\_blank"}, [GoBusiness Licensing Portal](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="\_blank"}, [SafeEntry](/products/categories/digital-solutions-to-address-covid-19/safeentry){:target="\_blank"}, [SupplyAlly](/products/categories/digital-solutions-to-address-covid-19/supplyally){:target="\_blank"}, [Whole of Government Application Analytics (WOGAA)](/products/categories/analytics/wogaa/getting-started){:target="\_blank"}, and [SHIP-HATS](/singapore-government-tech-stack/toolchain/overview.html){:target="\_blank"} utilise the GCC.
 
-Ultimately, cloud migration is not just a data migration exercise, but a holistic strategy to pursue government digital transformation and advancement of citizen and business services through cloud capabilities. For example, during the COVID-19 pandemic, Singapore’s Ministry of Education (MOE) was able to successfully enable home-based learning (HBL) within a week’s notice due to the hosting of its Student Learning Space (SLS) on the GCC, which allowed SLS to tap on cloud IaaS and PaaS functionalities to deliver a seamless and smooth HBL experience for students. This also allowed SLS to meet the increased demand for HBL during the pandemic, by scaling its uptake from 100,000 concurrent students to 300,000 concurrent students. 
+Ultimately, cloud migration is not just a data migration exercise, but a holistic strategy to pursue government digital transformation and advancement of citizen and business services through cloud capabilities. For example, during the COVID-19 pandemic, Singapore’s Ministry of Education (MOE) was able to successfully enable home-based learning (HBL) within a week’s notice due to the hosting of its Student Learning Space (SLS) on the GCC, which allowed SLS to tap on cloud IaaS and PaaS functionalities to deliver a seamless and smooth HBL experience for students. This also allowed SLS to meet the increased demand for HBL during the pandemic, by scaling its uptake from 100,000 concurrent students to 300,000 concurrent students.
 
 ### What is GCC?
 
-GCC 1.0 was launched in 2018 as a “wrapper” platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by Amazon, Microsoft, and Google. However, feedback received include concerns over the tedious process of onboarding the GCC, increased need for automation, cloud native solutions and for less service requests. 
+GCC 1.0 was launched in 2018 as a “wrapper” platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by Amazon, Microsoft, and Google. However, feedback received include concerns over the tedious process of onboarding the GCC, increased need for automation, cloud native solutions and for less service requests.
 In response to the learning points from GCC 1.0, a rethink was required on how the GCC is built and operated. As such, GCC was redesigned with the following approaches to give rise to GCC 2.0:
 
 - **Software approach to infrastructure:** Utilise Infrastructure-as-Code (IaC) to implement a core cloud platform
@@ -45,23 +48,23 @@ GCC 2.0 represents a refinement from our initial platform, based on feedback fro
 - **Customer centricity:** Recognising the developer as the customer so they are set up right to deliver to citizens and businesses
 - **Automation focus:** To reduce toil and service requests
 - **Improved observability and auditability:** Promote visibility into apps and traceability over time periods
-- **Compliance and security by design:** Allows agencies to comply with most IMs 
-- **API first:** Exposes service connections via APIs to facilitate government developers 
+- **Compliance and security by design:** Allows agencies to comply with most IMs
+- **API first:** Exposes service connections via APIs to facilitate government developers
 - **Native solutions over builds:** Light touch by adopting cloud technology over heavy customisations to move fast
 
 The key benefits of GCC 2.0 include:
 
-- **Single Identity:** Simplifying and accelerating identity and device security through [TechPass](/singapore-government-tech-stack/service-management/techpass.html){:target="_blank"}, which will be the single credential for all logins to access GCC 2.0 or Singapore Government Tech Stack services;
-- **Endpoint Posture Checks:** Through Secure Engineering Environment Device Platform (SEED), there will be real-time periodic posture checks with the capability to terminate access to services when non-compliant (e.g., malware detected on device) only individual services; 
+- **Single Identity:** Simplifying and accelerating identity and device security through [TechPass](/singapore-government-tech-stack/service-management/techpass.html){:target="\_blank"}, which will be the single credential for all logins to access GCC 2.0 or Singapore Government Tech Stack services;
+- **Endpoint Posture Checks:** Through Secure Engineering Environment Device Platform (SEED), there will be real-time periodic posture checks with the capability to terminate access to services when non-compliant (e.g., malware detected on device) only individual services;
 - **Access Control:** Cloudflare Access Control - Realtime secured identity with multi-factor authentication (MFA) and device posture through an encrypted channel to access GCC 2.0;
 - **Native Workload Administration:** Cloud Native - Relies on more reliable CSP native workload administration; and
-- **Controls & Compliance:** 
+- **Controls & Compliance:**
   - GCC 2.0 infra - Security controls using identity access management and policy-as-code (i.e. real time configuration checks), and
   - GCC 2.0 CMP - Less dependence on cloud management portal for better control and more automation over service requests.
 
 ### How Do You Use GCC?
 
-GCC 2.0 is currently in the Early Adopter Release phase but to tap on GCC 1.0, government agencies can first sign up for the [GCC Foundation Training](/gcc-foundation-training){:target="_blank"} to equip public officers with the knowledge on how to utilise appropriate GCC Services (GCCS) to host ICT systems. Refer to the STACK-X Cloud conference for more details on GCC [here](/communities/events/stack-x-cloud-2021){:target="_blank"}.
+GCC 2.0 is currently in the Early Adopter Release phase but to tap on GCC 1.0, government agencies can first sign up for the [GCC Foundation Training](/gcc-foundation-training){:target="\_blank"} to equip public officers with the knowledge on how to utilise appropriate GCC Services (GCCS) to host ICT systems. Refer to the STACK-X Cloud conference for more details on GCC [here](/communities/events/stack-x-cloud-2021){:target="\_blank"}.
 
 ### What's Next
 

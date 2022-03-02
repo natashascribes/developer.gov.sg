@@ -7,8 +7,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/
-    - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button.html
+  - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/
+  - /products/categories/sensor-platforms-and-internet-of-things/personal-alert-button.html
+  - /technologies/sensor-platforms-and-internet-of-things/personal-alert-button/
+  - /technologies/sensor-platforms-and-internet-of-things/personal-alert-button.html
 bios:
   - name: Joy Ng, Senior UX Designer
     img_src: pab-joy-ng.png
@@ -19,16 +21,16 @@ bios:
     img_src: pab-andrew-sng.png
     desc: |
       Andrew is an advocate in developing technology for public good. He joined the Sensor Platforms and Internet of Things (SIOT) team in GovTech in September 2017 and has been developing user-friendly hardware solutions for citizens. Outside of work, Andrew loves to eat the best foods in Singapore, play the occasional futsal, and read books.
-      
+
   - name: Si-Yan Teo, Systems Engineer
     img_src: pab-teo-si-yan.png
     desc: |
       Si-Yan is a Full-Stack Developer who designs and builds custom applications in DECADA. She enjoys learning new things and has many hobbies, including baking, calligraphy, and board games.
-      
+
   - name: Marvin Lee, Associate Systems Engineer
     img_src: pab-marvin-lee.png
     desc: |
-      Marvin graduated from the Singapore University of Technology and Design (SUTD) with a degree in Engineering Product Development. He is currently a Systems Engineer working on GALE and oversees the upgrading of DECADA infrastructure and dev-ops. 
+      Marvin graduated from the Singapore University of Technology and Design (SUTD) with a degree in Engineering Product Development. He is currently a Systems Engineer working on GALE and oversees the upgrading of DECADA infrastructure and dev-ops.
 
   - name: Kelvin Lim, UX Designer
     img_src: pab-kelvin-lim.png
@@ -45,13 +47,13 @@ bios:
  
 ### Overview
 
-Projections estimate that the number of seniors living alone in Singapore will reach 83,000 by 2030. This is a steep increase from 47,000 in 2016. Surveys show that most seniors prefer to live in their own home rather than elsewhere, such as nursing homes. However, seniors are also anxious about whether they can live safely and independently by themselves. For example, they might be worried that no one will come to their aid when they experience medical emergencies at home. 
+Projections estimate that the number of seniors living alone in Singapore will reach 83,000 by 2030. This is a steep increase from 47,000 in 2016. Surveys show that most seniors prefer to live in their own home rather than elsewhere, such as nursing homes. However, seniors are also anxious about whether they can live safely and independently by themselves. For example, they might be worried that no one will come to their aid when they experience medical emergencies at home.
 
-In response, PAB was conceived to ensure that seniors living alone can remain safe and independent. PAB is part of the [Government Assisted Living Ecosystem (GALE)](/products/categories/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem){:target="_blank"}, a collection of technologies and services to give our seniors greater peace of mind and support during their golden years.
+In response, PAB was conceived to ensure that seniors living alone can remain safe and independent. PAB is part of the [Government Assisted Living Ecosystem (GALE)](/products/categories/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem){:target="\_blank"}, a collection of technologies and services to give our seniors greater peace of mind and support during their golden years.
 
 ### What is the PAB?
 
-PAB is an alert device that can be installed in an elderly’s home. When a senior in distress activates the PAB, a distress signal will be sent to either a [Senior Activity Centre (SAC)](https://www.healthhub.sg/a-z/medical-and-care-facilities/8/senior_activity_centre){:target="_blank"} or [CareLine](https://www.singhealth.com.sg/rhs/live-well/CareLine/about-us){:target="_blank"}, which is a 24-hour telecare service provided by Changi General Hospital (CGH).
+PAB is an alert device that can be installed in an elderly’s home. When a senior in distress activates the PAB, a distress signal will be sent to either a [Senior Activity Centre (SAC)](https://www.healthhub.sg/a-z/medical-and-care-facilities/8/senior_activity_centre){:target="\_blank"} or [CareLine](https://www.singhealth.com.sg/rhs/live-well/CareLine/about-us){:target="\_blank"}, which is a 24-hour telecare service provided by Changi General Hospital (CGH).
 
 Upon receiving a distress alert from the PAB, staff will triage the situation and respond accordingly. The staff may communicate with the distressed senior using the PAB’s 4G technology which enables two-way communication, or use a 10 second audio recording to triage the situation within the household.
 
@@ -73,11 +75,11 @@ Upon receiving a distress alert from the PAB, staff will triage the situation an
 
 ### Why Should the PAB be Adopted?
 
-PAB is a fast and responsive device that enables our seniors to live safely and independently by providing round-the-clock monitoring and assistance. 
+PAB is a fast and responsive device that enables our seniors to live safely and independently by providing round-the-clock monitoring and assistance.
 
-The seniors are allowed to determine the location* of the devices as they are wireless and battery-operated, with a lifespan of around five years.
+The seniors are allowed to determine the location\* of the devices as they are wireless and battery-operated, with a lifespan of around five years.
 
-_*To ensure that seniors can reach the PAB when they are on the floor, there is a maximum height limit for chosen location to install the PAB._
+_\*To ensure that seniors can reach the PAB when they are on the floor, there is a maximum height limit for chosen location to install the PAB._
 
 ### How Do You Use the PAB?
 
@@ -91,14 +93,14 @@ Use the PAB by following these steps:
 
 ### Success Stories
 
-An estimated 10,000 housing units from 53 rental housing blocks will be installed with PABs. To date, PABs have been installed in more than 6,000 units from 36 blocks. 
+An estimated 10,000 housing units from 53 rental housing blocks will be installed with PABs. To date, PABs have been installed in more than 6,000 units from 36 blocks.
 
 Between November 2019 and September 2021, the installed PABs handled 415 emergency cases, including medical, social, and crime-related issues. Testimonies from two PAB users are as shown below:
 
-_“From 9pm to 3am… my leg was so painful. I couldn’t get out of bed… I can’t walk so I pressed the button for help. My son lives in Woodlands, too far away from me. I would have taken a taxi ride to hospital myself, but at 3am… where can I find a taxi?”_ 
+_“From 9pm to 3am… my leg was so painful. I couldn’t get out of bed… I can’t walk so I pressed the button for help. My son lives in Woodlands, too far away from me. I would have taken a taxi ride to hospital myself, but at 3am… where can I find a taxi?”_
 <br>**– Mdm A, a senior who lives alone**
 
-_“I was feeling breathless, I can’t reach the phone. I can’t even tell the 995 phone operator my address even if I can walk to my phone. [Your system] no need to give address, they knew… and they sent the ambulance to me.”_ 
+_“I was feeling breathless, I can’t reach the phone. I can’t even tell the 995 phone operator my address even if I can walk to my phone. [Your system] no need to give address, they knew… and they sent the ambulance to me.”_
 <br>**– Mr T, a senior who lives alone**
 
 ### What's Next?

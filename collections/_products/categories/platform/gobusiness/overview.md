@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/platform/gobusiness/
-    - /products/categories/platform/gobusiness.html
+  - /products/categories/platform/gobusiness/
+  - /products/categories/platform/gobusiness.html
+  - /technologies/platform/gobusiness/
+  - /technologies/platform/gobusiness.html
 description: GoBusiness is a one-stop platform that supports businesses with easy access to over 300 Government-to-Business e-services.
 ---
 
@@ -22,20 +24,21 @@ Developed by the Smart Nation and Digital Government Office (SNDGO), Ministry of
 ### What is GoBusiness?
 
 As a one-stop platform, GoBusiness supports businesses with easy access to over 300 Government-to-Business e-services. The business user journeys covered by GoBusiness include:
--	Starting a business 
--	Licence and permit applications  
--	Government assistance
--	COVID-19 regulations and applications
+
+- Starting a business
+- Licence and permit applications
+- Government assistance
+- COVID-19 regulations and applications
 
 Furthermore, GoBusiness also provides e-Advisers that provide businesses with recommendations on:
 
--	**Business Structure**: By answering a few simple questions, new business owners can receive information to help them decide on the business structure that best suits their needs.
+- **Business Structure**: By answering a few simple questions, new business owners can receive information to help them decide on the business structure that best suits their needs.
 
--	**Starting a Business**: New businesses can check the availability of their preferred business name, the availability of proposed business names as usernames on social media channels, find out about the Singapore Standard Industrial Classification Code for their business activities, as well as receive recommendations on the steps to register their business in Singapore.   
+- **Starting a Business**: New businesses can check the availability of their preferred business name, the availability of proposed business names as usernames on social media channels, find out about the Singapore Standard Industrial Classification Code for their business activities, as well as receive recommendations on the steps to register their business in Singapore.
 
--	**Premises-Use Checks**: Businesses can conveniently check premises-use and change in land use with the e-Adviser. It points businesses to the right Government agency to get approval for the use of commercial spaces. Businesses can find out if change-of-use approval is required by entering the addresses of their shortlisted properties and answering a few simple questions.
+- **Premises-Use Checks**: Businesses can conveniently check premises-use and change in land use with the e-Adviser. It points businesses to the right Government agency to get approval for the use of commercial spaces. Businesses can find out if change-of-use approval is required by entering the addresses of their shortlisted properties and answering a few simple questions.
 
--	**Event Organisation**: Businesses looking to organise events in Singapore can use the e-Adviser to navigate the regulatory landscape. By answering a few simple questions, businesses can receive a curated set of licence and Safe Management Measures recommendations for their event.
+- **Event Organisation**: Businesses looking to organise events in Singapore can use the e-Adviser to navigate the regulatory landscape. By answering a few simple questions, businesses can receive a curated set of licence and Safe Management Measures recommendations for their event.
 
 <figure style="text-align: center">
   <img
@@ -51,7 +54,7 @@ The benefits of GoBusiness include:
 
 - **Single, reliable source of updated information**: Businesses can reduce time spent searching for information from multiple Government agencies, and can obtain the latest updates on business-related services and resource from the GoBusiness portal.
 
--	**User-centric products**: GoBusiness conducted consultations with more than 500 companies across different sectors to map out the user journeys of businesses, and to ensure that its features and enhancements address real business challenges. GoBusiness also provides personalised recommendations to point users to licences and grants that are relevant for their business. This helps businesses cut through the clutter and apply for the licences and grants most applicable to them.  
+- **User-centric products**: GoBusiness conducted consultations with more than 500 companies across different sectors to map out the user journeys of businesses, and to ensure that its features and enhancements address real business challenges. GoBusiness also provides personalised recommendations to point users to licences and grants that are relevant for their business. This helps businesses cut through the clutter and apply for the licences and grants most applicable to them.
 
 ### How Do You Use GoBusiness?
 
@@ -64,13 +67,13 @@ Businesses can visit [gobusiness.gov.sg](https://www.gobusiness.gov.sg){:target=
 Testimonies from various businesses about their experience with GoBusiness are as shown below:
 
 <i>“GoBusiness offers much more than just manpower declaration-related matters…What makes GoBusiness special, is that it thinks from the shoes of business operators, thus making everything much more intuitive to us.</i><br>
-–	**Jeannie Ong, Founder of Envy Her Pte Ltd**
+– **Jeannie Ong, Founder of Envy Her Pte Ltd**
 
 <i>“The website is clean and easy to navigate. Information is detailed and also laid out in an organised manner…GoBusiness is my first stop when I am looking for any information on business-related Government services…I highly recommend it to other businesses.”</i><br>
 – **Shawn Ow, Managing Director of Genesis One Tech Farm**
 
 <i>“I find that the interface of the website is very modern and clean, with a minimalist design, and that made the communication of information really efficient for me. Initially, we only had a very rough idea on how to start a business. However, with the very clear steps defined by GoBusiness, we were then able to very confidently register our company…I will recommend GoBusiness to first-time entrepreneurs, especially those without a business background like myself, because [GoBusiness] just makes things so much easier to understand.”</i><br>
-–	**Joel Lim, Managing Director of ZYRUP Media**
+– **Joel Lim, Managing Director of ZYRUP Media**
 
 ### What's Next?
 
@@ -78,11 +81,11 @@ The GoBusiness team is looking to develop a personalised dashboard for businesse
 
 - **Register for a new business**: After receiving a personalised step-by-step guide on how to register their business, users can choose to complete the incorporation of their business all within the same transaction. Once the business registration is complete, the user will receive suggestions on what to do next, including applying for relevant licences and grants.
 
--	**Access and apply for more than 200 licences across sectors**: Businesses can access and apply for new licences administered by various Government agencies via the dashboard without having to visit separate portals for different licences. In the same space, businesses can amend, renew, or cancel existing licences. 
+- **Access and apply for more than 200 licences across sectors**: Businesses can access and apply for new licences administered by various Government agencies via the dashboard without having to visit separate portals for different licences. In the same space, businesses can amend, renew, or cancel existing licences.
 
--	**Keep track of their applications**: Businesses are kept up-to-date on their licence application status via the dashboard, and will be prompted if any action is required. 
+- **Keep track of their applications**: Businesses are kept up-to-date on their licence application status via the dashboard, and will be prompted if any action is required.
 
--	**Receive personalised recommendations**: Businesses can receive a range of tailored recommendations via the dashboard. The Government Assistance e-Adviser considers a business’ unique profile when providing suggestions for relevant grants. 
+- **Receive personalised recommendations**: Businesses can receive a range of tailored recommendations via the dashboard. The Government Assistance e-Adviser considers a business’ unique profile when providing suggestions for relevant grants.
 
 These features will be introduced progressively from early 2022.
 

@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/myinfo-business/
     - /products/categories/digital-identity/myinfo-business.html
+    - /technologies/digital-identity/myinfo-business/
+    - /technologies/digital-identity/myinfo-business.html
 description: >
   Myinfo business is a “Tell Us Once” service that enables businesses to pre-fill and provide their corporate data and applicants’ personal data for simpler online transactions.
 ---

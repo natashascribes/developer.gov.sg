@@ -7,6 +7,8 @@ _data: single-level-nav
 redirect_from:
     - /products/categories/digital-identity/national-digital-identity/
     - /products/categories/digital-identity/national-digital-identity.html
+    - /technologies/digital-identity/national-digital-identity/
+    - /technologies/digital-identity/national-digital-identity.html
 description: >
   National Digital Identity
   allows citizens to conduct transactions with both the public and private sectors 

@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/ecanvas/
-    - /products/categories/sensor-platforms-and-internet-of-things/ecanvas.html
+  - /products/categories/sensor-platforms-and-internet-of-things/ecanvas/
+  - /products/categories/sensor-platforms-and-internet-of-things/ecanvas.html
+  - /technologies/sensor-platforms-and-internet-of-things/ecanvas/
+  - /technologies/sensor-platforms-and-internet-of-things/ecanvas.html
 description: >
   The eCanvas is a voice-controlled assistive technology that provides greater independence for persons with disabilities.
 bios:

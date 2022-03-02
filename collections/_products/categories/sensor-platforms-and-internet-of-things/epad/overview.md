@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/epad/
-    - /products/categories/sensor-platforms-and-internet-of-things/epad.html
+  - /products/categories/sensor-platforms-and-internet-of-things/epad/
+  - /products/categories/sensor-platforms-and-internet-of-things/epad.html
+  - /technologies/sensor-platforms-and-internet-of-things/epad/
+  - /technologies/sensor-platforms-and-internet-of-things/epad.html
 description: >
   ePAD is an assistive digital system that enable Persons with Disabilities (PWDs) to perform professional photography and videography services.
 bios:

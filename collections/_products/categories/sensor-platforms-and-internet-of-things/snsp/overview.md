@@ -6,8 +6,10 @@ sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
-    - /products/categories/sensor-platforms-and-internet-of-things/snsp/
-    - /products/categories/sensor-platforms-and-internet-of-things/snsp.html
+  - /products/categories/sensor-platforms-and-internet-of-things/snsp/
+  - /products/categories/sensor-platforms-and-internet-of-things/snsp.html
+  - /technologies/sensor-platforms-and-internet-of-things/snsp/
+  - /technologies/sensor-platforms-and-internet-of-things/snsp.html
 description: >
   SNOC is a one-stop service providing 24/7 operational support for Government agencies utilising Smart Nation Sensor Platform (SNSP)’s services.
 ---
