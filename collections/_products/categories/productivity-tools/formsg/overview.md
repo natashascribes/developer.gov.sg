@@ -5,6 +5,7 @@ category: Productivity Tools
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
+collection_group: [Open-source]
 redirect_from:
   - /products/categories/productivity-tools/formsg/
   - /products/categories/productivity-tools/formsg.html
