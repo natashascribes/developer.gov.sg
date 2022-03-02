@@ -216,9 +216,19 @@
   items:
     - Overview
 
+- name: FormSG
+  items:
+    - Overview
+    - Resources
+    
 - name: GatherSG
   items:
     - Overview
+    
+- name: Go.gov.sg
+  items:
+    - Overview
+    - Resources
 
 # Sensor Platforms and Internet of Things
 - name: Asynchronous Data Exchange
