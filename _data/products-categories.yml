@@ -39,7 +39,7 @@
     - OpenDoc
 
 - name: Data and APIs
-  description: Open APIs and platforms allowing developers to connect with data and services from the Government
+  description: Open APIs and platforms that allow users to connect with data and services from the Government
   items:
     - Overview
     - APEX
@@ -64,7 +64,7 @@
   description: Tools that enable the delivery of software quickly, securely and reliably in the spirit of DevOps
 
 - name: Digital Identity
-  description: Make use of Government-backed digital identities to identify and transact with individuals and businesses
+  description: Make use of government-backed digital identities to identify and transact with individuals and businesses
   items:
     - Overview
     - Corppass
@@ -105,7 +105,7 @@
     - SPOTON
 
 - name: Platform
-  description: Digital platform for citzens, agencies and businesses
+  description: Digital platforms for citzens, agencies and businesses
   items:
     - Overview
     - GoBusiness
@@ -114,7 +114,7 @@
     - Virtual Intelligent Chat Assistant
 
 - name: Productivity Tools
-  description: Tools to enhance your experience at work and help you achieve more
+  description: Tools to enhance your experience and increase efficiency at work
   items:
     - Overview
     - Asset Management System

@@ -1,5 +1,5 @@
 - name: Open-source
-  description: A wide range of open-source technologies by Government agencies
+  description: A wide range of open-source technologies by government agencies
   items:
     - Overview
     - API Exchange (APEX)
@@ -10,7 +10,7 @@
     - VigilantGantry
     
 - name: Singapore Government Tech Stack
-  description: A common platform that streamlines and simplifies the development process
+  description: A common government platform that streamlines and simplifies the development process
   items:
     - Overview
     - API Exchange (APEX)
