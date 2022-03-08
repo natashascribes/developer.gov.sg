@@ -3,15 +3,9 @@
 
 - name: Base Layer
   description:
-  items:
-    - ABC
-    - abc
 
 - name: Service Layer
   description:
-  items:
-    - ABC
-    - abc
 
 # - name: Tech stack component 1
 #   description: add more pages by adding to the list here
