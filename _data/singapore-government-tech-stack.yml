@@ -1,37 +1,17 @@
 - name: Overview
   description: A better, smarter and faster platform for building digital applications
 
-- name: Toolchain
+- name: Base Layer
   description:
   items:
-    - Overview
-    - SHIP-HATS
+    - ABC
+    - 123
 
-- name: Communications
+- name: Service Layer
   description:
   items:
-    - Overview
-    - APEX
-    - Cloud File Transfer
-
-- name: Monitoring
-  description:
-  items:
-    - Overview
-    - StackOps
-    
-- name: Runtime
-  description:
-  items:
-    - Overview
-    - Container Stack
-
-- name: Service Management
-  description:
-  items:
-    - Overview
-    - Engineering Suite
-    - TechPass
+    - ABC
+    - 123
 
 # - name: Tech stack component 1
 #   description: add more pages by adding to the list here
