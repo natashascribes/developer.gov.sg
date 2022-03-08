@@ -1,0 +1,30 @@
+.spacing-container-vertical {
+  display: flex;
+  flex-direction: column;
+  &.spacing-8 > * {
+    margin-top: 8px;
+  }
+  &.spacing-16 > * {
+    margin-top: 16px;
+  }
+  &.spacing-32 > * {
+    margin-top: 32px;
+  }
+  > *:first-child {
+    margin-top: 0px;
+  }
+}
+
+.spacing-container-horizontal {
+  display: flex;
+  align-items: center;
+  &.spacing-16 > * {
+    margin-right: 16px;
+  }
+  &.spacing-32 > * {
+    margin-right: 32px;
+  }
+  > *:last-child {
+    margin-right: 0px;
+  }
+}

@@ -1,53 +1,83 @@
-.content{
-    &.has-default-header-styles{
-        h1{
-            line-height: $size-1-lh;
-            margin-bottom: 0.5rem;
-            &.display{
-                line-height: $size-0-lh;
-            }
-        }
-        h2{
-            line-height: $size-2-lh;
-            margin-bottom: 0.5rem;
-        }
-        h3{
-            line-height: $size-3-lh;
-            margin-bottom: 0.5rem;
-        }
-
-        
-
-        h4{
-            line-height: $size-4-lh;
-            margin-bottom: 0.5rem;
-        }
-
-        p{
-            line-height: $size-7-lh;
-        }
-
-        h1 + h2{
-            margin-top: 1.5rem!important;
-        }
-        h2 + h3{
-            margin-top: 1rem!important;
-        }
-        h3 + h4{
-            margin-top: 0.5rem!important;
-        }
-
-        p + :is(h1, h2, h3, h4){
-            margin-top: 2rem!important;
-        }
-
-        li:not(.sgds-menu-list li ){
-            line-height: inherit;
-        }
+.content {
+  &.has-default-header-styles {
+    h1 {
+      line-height: $size-1-lh;
+      margin-bottom: 0.5rem;
+      &.display {
+        line-height: $size-0-lh;
+      }
     }
+    h2 {
+      line-height: $size-2-lh;
+      margin-bottom: 0.5rem;
+    }
+    h3 {
+      line-height: $size-3-lh;
+      margin-bottom: 0.5rem;
+    }
+
+    h4 {
+      line-height: $size-4-lh;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      line-height: $size-7-lh;
+    }
+
+    h1 + h2 {
+      margin-top: 1.5rem !important;
+    }
+    h2 + h3 {
+      margin-top: 1rem !important;
+    }
+    h3 + h4 {
+      margin-top: 0.5rem !important;
+    }
+
+    p + :is(h1, h2, h3, h4) {
+      margin-top: 2rem !important;
+    }
+
+    li:not(.sgds-menu-list li) {
+      line-height: inherit;
+    }
+  }
 }
 
-p.text-last-updated{
-    color: hsl(0,0%,46%);
+p.text-last-updated {
+  color: hsl(0, 0%, 46%);
 }
 
+.search-result-status {
+  font-size: 18px;
+  line-height: 27px;
+  color: #767676;
+  margin-bottom: 16px;
+}
+
+.label-text-to-hide {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+@media screen and (max-width: 768px) {
+  .label-text-to-hide {
+    display: none;
+  }
+}
+
+.sgds-card {
+  &.typography-no-margin {
+    h4 {
+      margin-bottom: 0px;
+    }
+    p {
+      margin-bottom: 0px;
+    }
+    strong {
+      margin-bottom: 0px;
+      font-size: 18px;
+    }
+  }
+}

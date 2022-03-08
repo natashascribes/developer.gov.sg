@@ -12,7 +12,10 @@ module.exports = (env, argv) => {
       "vue-events-app": "./apps/src/events/vue-events-app.js",
       "vue-workflow-app": "./apps/src/workflows/vue-workflow-app.js",
       "vue-add-page-app": "./apps/src/pages/vue-add-page-app.js",
-      "vue-search-app": "./apps/src/search/vue-search-app.js",
+      "vue-search-app-full-site":
+        "./apps/src/search/vue-search-app-full-site.js",
+      "vue-search-app-all-products":
+        "./apps/src/search/vue-search-app-all-products.js",
       "vue-blogs-app": "./apps/src/blogs/vue-blogs-app.js",
       main: "./apps/src/main.js",
     },
@@ -68,7 +71,7 @@ module.exports = (env, argv) => {
         API_URL:
           argv.mode === "production"
             ? "https://api.developer.gov.sg/v1/api"
-            : process.env.API_URL
+            : process.env.API_URL,
       }),
     ],
   };

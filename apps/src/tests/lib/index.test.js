@@ -1,5 +1,5 @@
 import assert from "assert";
-import { hasErrors, emailRegex } from "../lib";
+import { hasErrors, emailRegex } from "../../lib";
 
 describe("lib tests", function() {
   describe("hasErrors", function() {

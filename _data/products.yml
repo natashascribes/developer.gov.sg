@@ -2,10 +2,10 @@
   description: Overview of products prototype
   is_icon: false
 
-# - name: All Products
-#   description: Government-built open-source technologies and tools
-#   is_icon: true
-#   icon_class: sgds-icon-grid
+- name: All Products
+  description: Government-built open-source technologies and tools
+  is_icon: true
+  icon_class: sgds-icon-grid
 
 - name: Collections
   path: /products/overview/#collections

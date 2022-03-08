@@ -2,6 +2,7 @@
 title: Video Analytics System (VAS) – Enable. Exchange. Expand.
 layout: layout-page-sidenav
 category: Analytics
+target_group: [Absolute Random Group, ToTo]
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav

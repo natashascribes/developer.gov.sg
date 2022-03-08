@@ -1,6 +1,7 @@
 ---
 title: Login – High assurance authentication to onboard Singpass users for digital services
 layout: layout-page-sidenav
+category: Digital Identity
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav

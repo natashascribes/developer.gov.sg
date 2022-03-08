@@ -1,0 +1,27 @@
+---
+title: All Products
+layout: layout-page
+permalink: /products/all-products/
+---
+
+<div class="spacing-container-vertical spacing-32">
+    <div>
+        <a href="/products/" class="sgds-link-icon" style="text-decoration: none;">
+            <i class="sgds-icon sgds-icon-arrow-left" aria-hidden="true"></i>
+            Back to Overview
+        </a>
+    </div>
+    
+    <div class="spacing-container-horizontal spacing-16">
+        <strong class="label-text-to-hide">Filter: </strong>
+        <form class="search-box-defined-width" action="/products/all-products/" method="get">
+            {% include search-box.html id='query-all-products' placeholder='Title, description, category or target group' %}
+        </form>
+    </div>
+
+    <div id="search-app-all-products" style="display: flex; justify-content: center">
+    </div>
+</div>
+
+
+<script async src="/assets/bundles/vue-search-app-all-products.bundle.js"></script>

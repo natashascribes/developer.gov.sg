@@ -13,5 +13,10 @@
   description: A common government platform that streamlines and simplifies the development process
   items:
     - Overview
-    - API Exchange (APEX)
+    - Asynchronous Data Exchange
+    - APEX
     - Cloud File Transfer
+    - Container Stack
+    - Government on Commercial Cloud
+    - SHIP-HATS
+    - StackOps

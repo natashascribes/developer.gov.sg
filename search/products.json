@@ -1,0 +1,22 @@
+---
+---
+
+{
+    "pages": [
+        {%- for document in site["products"] -%}
+            {%- assign target_group_joined = document.target_group | join: ", " -%}
+            {%- if document.url contains 'overview.html' and document.url contains '/categories' -%}
+                {
+                    "title": "{{ document.title | remove: '"' }}",
+                    "description": "{{ document.description | remove: '>' | remove: '"' | strip }}",
+                    "targetGroup": "{{ target_group_joined }}",
+                    "category": "{{ document.category }}",
+                    "content": {{ document.content | strip_html | strip_newlines | strip | jsonify }},
+                    "url": "{{ document.url }}",
+                    "meta": "document"
+                },
+            {%- endif -%}
+            {%- if forloop.last -%}{}{%- endif -%}
+        {%- endfor -%}
+    ]
+}

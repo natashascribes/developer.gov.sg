@@ -5,6 +5,7 @@ category: Sensors and IOT
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
+collection_group: [Singapore Government Tech Stack]
 redirect_from:
   - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/
   - /products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange.html

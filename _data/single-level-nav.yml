@@ -16,6 +16,10 @@
     - Overview
 
 # Devops
+- name: Container Stack
+  items:
+    - Overview
+    
 - name: SHIP-HATS
   items:
     - Overview
@@ -23,6 +27,10 @@
     - Training Resources
     - Subscription
     - Contact Us
+    
+- name: StackOps
+  items:
+    - Overview
 
 # Blockchain
 - name: Opencerts

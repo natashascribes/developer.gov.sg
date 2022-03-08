@@ -18,14 +18,14 @@ export function sanitize(html) {
       "h2",
       "u", // Allow underlined content
       "img", // Allow img tags
-      "span" // Allow span tags
+      "span", // Allow span tags
     ],
     allowedAttributes: {
       ...sanitizeHtml.defaults.allowedAttributes,
       iframe: ["src"], // Allow videos
-      span: ["style"] // Allow text/background color
+      span: ["style"], // Allow text/background color
     },
-    allowedIframeHostnames: ["www.youtube.com", "player.vimeo.com"]
+    allowedIframeHostnames: ["www.youtube.com", "player.vimeo.com"],
   });
 }
 
@@ -35,13 +35,13 @@ export function escapeRegExp(string) {
 
 export const apiClient = axios.create({
   baseURL: config.apiUrl,
-  withCredentials: true
+  withCredentials: true,
 });
 
 export function detectFormErrors({ form, fields = [] }) {
   let formFields = fields.length === 0 ? Object.keys(form) : fields;
   let errors = {};
-  formFields.forEach(field => {
+  formFields.forEach((field) => {
     if (!form[field] || form[field] === "") {
       errors[field] = "Please enter a valid value.";
     } else {

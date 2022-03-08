@@ -1,10 +1,11 @@
 ---
 title: Government on Commercial Cloud
 layout: layout-page-sidenav
-category: Hosting
+category: Infrastructure and Hosting
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
+collection_group: [Singapore Government Tech Stack]
 redirect_from:
   - /singapore-government-tech-stack/government-on-commercial-cloud
   - /products/categories/infrastructure-and-hosting/government-on-commercial-cloud/

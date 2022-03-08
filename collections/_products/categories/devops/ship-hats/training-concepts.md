@@ -1,12 +1,14 @@
 ---
 title: Training Concepts
 layout: layout-page-sidenav
-description: insert desecription.
+single_level_nav: true
+_data: single-level-nav
+redirect_from: /singapore-government-tech-stack/toolchain/training/training-concepts
 ---
 
 ### DevOps Concepts 
  
-New to DevOps and looking to get started on [SHIP-HATS](../overview)? Here are some resources for you.
+New to DevOps and looking to get started on [SHIP-HATS](../overview){:target="_blank"}? Here are some resources for you.
 
 ### Concepts 
 

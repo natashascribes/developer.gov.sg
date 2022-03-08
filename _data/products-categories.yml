@@ -62,6 +62,11 @@
 
 - name: DevOps
   description: Tools that enable the delivery of software quickly, securely and reliably in the spirit of DevOps
+  items:
+    - Overview
+    - Container Stack
+    - SHIP-HATS
+    - StackOps
 
 - name: Digital Identity
   description: Make use of government-backed digital identities to identify and transact with individuals and businesses

@@ -1,6 +1,7 @@
 ---
 title: Identiface – Authenticate users with their secure, consent-based biometrics ID
 layout: layout-page-sidenav
+category: Digital Identity
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav

@@ -1,7 +1,7 @@
 ---
 title: TechPass
 layout: layout-page-sidenav
-category: Service Management
+category: Digital Identity
 sub_collection_render: true
 description: TechPass is an Identity & Access Management (IAM) system that is equipped with Single Sign On (SSO).
 ---

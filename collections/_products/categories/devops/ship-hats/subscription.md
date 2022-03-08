@@ -6,12 +6,13 @@ single_level_nav: true
 _data: single-level-nav
 redirect_from:
     - /products/categories/devops/ship-hats/subscription.html
-    - /technologies/devops/ship-hats/subscription.html
+    - /singapore-government-tech-stack/toolchain/subscription
+    - /singapore-government-tech-stack/toolchain/subscriptions
 ---
 
 ### Overview
 
-[SHIP-HATS](./overview) manages its tenants through subscriptions and only agencies can subscribe to SHIP-HATS. Agencies can extend subscriptions to non-agency users such as vendors. **There are 4 subscription tiers: Starter, Squad, Team, and Tribe.**
+[SHIP-HATS](./overview){:target="_blank"} manages its tenants through subscriptions and only agencies can subscribe to SHIP-HATS. Agencies can extend subscriptions to non-agency users such as vendors. **There are 4 subscription tiers: Starter, Squad, Team, and Tribe.**
 
 <figure style="text-align: center">
   <img
