@@ -3,7 +3,6 @@ title: Whole-of-Government Application Analytics (WOGAA) - Improve Government Se
 mobile_title: WOGAA
 layout: layout-page-sidenav
 category: Analytics
-target_group: [Public Officers, Government Developers]
 _data: single-level-nav
 redirect_from:
     - /products/categories/analytics/wogaa/
