@@ -22,6 +22,12 @@ bios:
     img_src: sgfindex-daryl-low.png
     desc: |
       Daryl Low is Assistant Director of Trusted Data & Services at the Government Technology Agency of Singapore (GovTech). In this position, he oversees product management of national digital identity’s (NDI) Singapore Data Exchange (SGDex) with the aim of enabling seamless data exchange between government and private institutions. He also currently coordinates NDI’s COVID-19 technology response applications across multiple teams in GovTech and agencies.<br><br>Before joining the public service in 2020, Daryl was a technology entrepreneur with a keen focus on communications, engagement and relationships – with inventions ranging from hardware driven customer relationship management systems to talent acquisition and screening technologies. 
+      
+        - name: James Lee, Principal Solutions Architect, Trusted Data & Services
+    img_src: sgfindex-james-lee.png
+    desc: |
+      James Lee is a Principal Solutions Architect of Trusted Data & Services at the Government Technology Agency of Singapore (GovTech).<br><br>In his role, James oversees the technical management of the Singapore Data Exchange (SGDex), a product under the National Digital Identity (NDI) initiative. He also serves as Head of Engineering for Singapore Trade Data Exchange (SGTraDex), a digital infrastructure jointly developed by IMDA, GovTech, and the private sector, that facilitates trusted and secure data sharing between supply chain ecosystem partners.<br><br>James was the Principal Solutions Architect responsible for the inception of Myinfo, a national digital personal data platform, among others. He joined Google as a Cloud Consultant for two years, helping large enterprise customers in APAC achieve success in their cloud transformation journeys onto Google Cloud Platform before rejoining public service in 2021. 
+ 
 ---
 
 ### Overview
