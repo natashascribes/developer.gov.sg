@@ -40,7 +40,7 @@ redirect_from:
 
 - CFT can be set up quickly. Agencies are able to transfer files fast, without incurring the operational costs and overheads of setting up a similar service. They can scale as required based on their transfer needs.
 
-CFT is currently in closed beta. CFT version 1.1 is scheduled to release in May 2022 and version 2 will be available by the first quarter of 2023. A comparison of features is listed below:
+CFT is currently in closed beta and the expected general availability (GA) date is approximately in Q1 2021. For pilot users, please note that CFT version 1.1 will be updated to CFT version 2.1 from May 2022. A comparison of the features between both versions are listed below: 
 
 <figure style="text-align: center">
   <img
