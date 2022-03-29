@@ -13,7 +13,7 @@ redirect_from:
 Agencies and their partners can onboard and integrate CFT as a closed beta digital service in three simple steps:
 
 1. Qualification for Closed-Beta
-	- Agencies interested in participating in closed beta for CFT version 1.1 can sign up using the Tenant Onboarding form. As slots are limited, you are advised to sign up as soon as possible.
+	- We are no longer taking in new closed-beta users for CFT version 1.1 as we are upgrading to CFT version 2.1 from May 2022. Agencies which are keen can [register their interest](https://form.gov.sg/#!/62280856ba91100012050933){:target="_blank"} to be a closed-beta user for CFT version 2.1. 
 
 2. Technical Assessment
 	- The CFT team will review your use case and if found suitable, follow-up with you for the implementation details.
