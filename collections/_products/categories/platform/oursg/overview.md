@@ -8,7 +8,10 @@ single_level_nav: true
 description: OurSG (OSG) Grants is a one-stop, integrated portal that consolidates the Government's community and social grants into a single platform.
 ---
 
+![Cloud File Transfer Singapore Government Developer Portal](/assets/img/products/Agencies that developed OSG.png)
+
 OurSG (OSG) Grants is a one-stop, integrated portal that consolidates government grants for the arts, community, heritage, social good, sports, and youth into a single platform.
+
 By consolidating and digitalising grant applications and administration, the portal allows government agencies to expedite grant processing and disbursement and enhance the customer experience.
 
 OSG currently hosts over 34 grants from 13 government agencies. In the future, more grants will be onboarded to continue to establish OSG as a Whole-of-Government (WOG) platform for community and social grants.
