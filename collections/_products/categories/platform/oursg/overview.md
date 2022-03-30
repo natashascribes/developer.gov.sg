@@ -8,7 +8,7 @@ single_level_nav: true
 description: OurSG (OSG) Grants is a one-stop, integrated portal that consolidates the Government's community and social grants into a single platform.
 ---
 
-![Agencies that developed OSG](/assets/img/products/Agencies that developed OSG .png)
+![Agencies that developed OSG](/assets/img/products/Agencies that developed OSG.png)
 
 OurSG (OSG) Grants is a one-stop, integrated portal that consolidates government grants for the arts, community, heritage, social good, sports, and youth into a single platform.
 
