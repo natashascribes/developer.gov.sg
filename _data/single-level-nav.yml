@@ -215,6 +215,14 @@
   items:
     - Overview
 
+- name: OurSG
+  items:
+    - Overview
+    - Features
+    - Getting Started
+    - Resources
+    - FAQs
+
 - name: Virtual Intelligent Chat Assistant
   items:
     - Overview
