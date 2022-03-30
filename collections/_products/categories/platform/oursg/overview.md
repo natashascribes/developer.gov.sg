@@ -24,6 +24,10 @@ Government agencies such as the Ministry of Culture, Community & Youth have comm
 -	Inter-agency routing of applications to other relevant grants without the need for refilling of forms
 -	Data security, fraud, and grant governance for government officers 
 
+### Pricing
+
+OSG is free for onboarding in FY22. From FY23 onwards, there will be a fee to onboard the platform. (We will provide the price schedule when it is available in FY23)
+
 ### Contact Us
 
 Reach out to the product team with your queries or feedback through this [form](https://form.gov.sg/#!/62280856ba91100012050933){:target="\_blank"} 
