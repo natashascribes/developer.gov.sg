@@ -43,7 +43,7 @@ The benefits of CStack include:
 2. Deploy your applications automatically using infrastructure-as-code.
 3. Secure your applications using the out-of-box base pipeline that scans your code and container images for security vulnerabilities.
 
-**List of Supported Managed Services (Cloud Managed Services)**
+**Supported Managed Services (Cloud Managed Services)**
 
 - Simple Storage Service (S3)
 - Relational Database Service (RDS)
@@ -55,7 +55,7 @@ The benefits of CStack include:
 - Simple Email Service (SES)
 - Redis ElastiCache
 
-** List of Unsupported Managed Services**
+**Unsupported Managed Services**
 
 - API Gateway (Encouraged to use APEX Cloud)
 - Lambda (Kubernetes FaaS under consideration)
